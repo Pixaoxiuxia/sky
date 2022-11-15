@@ -1,12 +1,12 @@
 ---
 title: Self-introduction
-author: ''
+author: Xiyuan Hu
 date: '2022-11-16'
 slug: self-introduction
 categories:
-  - self
+  - introduction
 tags:
-  - self
+  - introduction
 ---
 
 ![](figs/ID.png)
