@@ -11,7 +11,7 @@ output:
 ## Research Papers in Peer-Reviewed Publications
 
 ### Population Health
-• Chao Guo, **Xiyuan Hu**, Chaofan Xu, & Xiaoying Zheng. (2022).  Association Between Olympic Games and Children’s Growth: Evidence from China. *British Journal of Sports Medicine*, bjsports-2021-104844. [doi](https://bjsm.bmj.com/content/56/19/1110).
+• Chao Guo, **Xiyuan Hu**, Chaofan Xu, & Xiaoying Zheng. (2022).  Association Between Olympic Games and Children’s Growth: Evidence from China. *British Journal of Sports Medicine*, 56:1110-1114. [doi](https://bjsm.bmj.com/content/56/19/1110).
 
 • Chao Guo, **Xiyuan Hu**, Dianqi Yuan, Yuyu Zeng, & Peisen Yang. (2022). The Effect of COVID-19 on Public Confidence in the World Health Organization: A Natural Experiment Among 40 Countries. *Globalization and Health*, 18(1), 77. [doi](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-022-00872-y).
 
@@ -32,7 +32,7 @@ output:
 
 ## Life Course
 
-• **Xiyuan Hu**, Chao Guo, Jie Liu, & Ketian Zhang. (2022). Bridging the Digital Divide: Childhood Social Relationships and Mobile Payment Use Among Chinese Middle-Aged and Older Adults. *Journal of Applied Gerontology*, 07334648221117771. [doi](https://journals.sagepub.com/doi/10.1177/07334648221117771).
+• **Xiyuan Hu**, Chao Guo, Jie Liu, & Ketian Zhang. (2022). Bridging the Digital Divide: Childhood Social Relationships and Mobile Payment Use Among Chinese Middle-Aged and Older Adults. *Journal of Applied Gerontology*, 0(0). [doi](https://journals.sagepub.com/doi/10.1177/07334648221117771).
 
 • Yihao, Zhao, **Xiyuan Hu**, & Chao Guo. (2022). Long-Term Effects of Pregnancy Exposure to Natural Disasters on Physical Health: A Review. *Chinese Journal of Public Health*, 38(08), 1082-1087. [doi](https://www.zgggws.com/cn/article/doi/10.11847/zgggws1136302). [In Chinese].
 
