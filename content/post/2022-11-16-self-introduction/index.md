@@ -9,7 +9,7 @@ tags:
   - introduction
 ---
 
-![](figs/ID.png)
+![](ID.png)
 
 Hello everyone, welcome to my website! I am a graduate student in Institute of Population Research at Peking University.
 
