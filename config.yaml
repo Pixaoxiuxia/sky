@@ -14,8 +14,8 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: 1 About
-      url: /About/
+    - name: 1 Home
+      url: /Home/
     - name: 2 Publications
       url: /Publications/
     - name: 3 Experiences
