@@ -1,7 +1,7 @@
 ---
 title: Self-introduction
 author: Xiyuan Hu
-date: '2022-11-14'
+date: '2022-11-16'
 timezone: Asia/Shanghai
 slug: self-introduction
 categories: []
@@ -10,7 +10,7 @@ tags: []
 
 Hello everyone, welcome to my website! I am a graduate student in Institute of Population Research at Peking University.
 
-![](ID.png)
+![](https://cdn.jsdelivr.net/gh/Pixaoxiuxia/blog-figs/main/202211162041388.png)
 
 ## Research interests
 *Population Health*
