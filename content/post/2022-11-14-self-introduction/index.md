@@ -1,7 +1,7 @@
 ---
 title: Self-introduction
 author: Xiyuan Hu
-date: '2022-11-16'
+date: '2022-11-14'
 timezone: Asia/Shanghai
 slug: self-introduction
 categories: []
