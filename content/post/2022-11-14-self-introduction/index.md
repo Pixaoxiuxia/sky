@@ -8,9 +8,12 @@ categories: []
 tags: []
 ---
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211162141087.png" alt="drawing" width="20%" />
+</div>
+
 Hello everyone, welcome to my website! I am a graduate student in Institute of Population Research at Peking University.
 
-![](https://cdn.jsdelivr.net/gh/Pixaoxiuxia/blog-figs/main/202211162041388.png)
 
 ## Research interests
 *Population Health*

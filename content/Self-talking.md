@@ -82,15 +82,24 @@ output:
 
 ### The Wind that Shakes the Barley
 
+
 • 2006
 
 • Director: Ken Loach [UK]
 
 • My favorite move! “It's easy to know what you are against, but quite another to know what you are for.”
 
+<div align="left">
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211162140769.jpg" alt="drawing" width="30%" />
+</div>
+
 ### Breakfast on Pluto
 
 • 2005
 
 • Director: Neil Jordan [Ireland]
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211162159769.png" alt="drawing" width="30%" />
+</div>
 
