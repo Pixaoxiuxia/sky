@@ -46,11 +46,19 @@ output:
 
 • Director: 李睿珺 / Ruijun Li [China]
 
+<div align="left">
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211172144235.png" alt="drawing" width="30%" />
+</div>
+
 ### L'Événement / Happening
 
 • 2021
 
 • Director: Audrey Diwan [France]
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211172151290.png" alt="drawing" width="30%" />
+</div>
 
 ### Never Rerely Sometimes Always
 
@@ -58,11 +66,19 @@ output:
 
 • Director: Eliza Hittman [US]
 
+<div align="left">
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211172152307.png" alt="drawing" width="30%" />
+</div>
+
 ### 버닝 / Burning
 
 • 2018
 
 • Director: 이창동 / Lee Chang-dong
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211172155914.png" alt="drawing" width="30%" />
+</div>
 
 ### The Danish Girl
 
@@ -70,11 +86,19 @@ output:
 
 • Director: Tom Hooper [UK]
 
+<div align="left">
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211172158965.png" alt="drawing" width="30%" />
+</div>
+
 ### Girl
 
 • 2008
 
 • Director: Lukas Dhont [Belgium]
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211172200266.png" alt="drawing" width="30%" />
+</div>
 
 ### 4 luni, 3 săptămâni și 2 zile / 4 Months, 3 Weeks and 2 Days
 
@@ -82,8 +106,11 @@ output:
 
 • Director: Cristian Mungiu [Rumania]
 
-### The Wind that Shakes the Barley
+<div align="left">
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211172203120.png" alt="drawing" width="30%" />
+</div>
 
+### The Wind that Shakes the Barley
 
 • 2006
 
