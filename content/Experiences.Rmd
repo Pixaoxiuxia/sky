@@ -92,8 +92,13 @@ Sep 2016 - Jun 2020, B.A. in Public Affairs Administration, School of Sociology 
 
 • **Sex, Gender, and Sexuality**: Feminism and Social Work
 
-• **Quantitative Methods**: Statistics, Econometrics, Survival Analysis, Applied Regression Analysis, Biostatistics, Python Computer Programming, Data Analysis and Software Application (Stata)
+• **Quantitative Coursework**: Statistics, Econometrics, Survival Analysis, Applied Regression Analysis, Biostatistics, Python Computer Programming, Data Analysis and Software Application (Stata)
 
+• **Statistics**: Analysis, Applied Regression Analysis, Biostatistics, Python Computer Programming, Data Analysis and Software Application (Stata)
+
+• **Programming**: Python Computer Programming
+	
+	
 ## Teaching Assistant
 
 • 2022 *Quantitative Reasoning*, Guanghua School of Management, PKU
