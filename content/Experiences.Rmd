@@ -92,7 +92,7 @@ Sep 2016 - Jun 2020, B.A. in Public Affairs Administration, School of Sociology 
 
 • **Sex, Gender, and Sexuality**: Feminism and Social Work
 
-• **Quantitative Coursework**: Statistics, Econometrics, Survival Analysis, Applied Regression Analysis, Biostatistics, Python Computer Programming, Data Analysis and Software Application (Stata)
+• **Quantitative Coursework**: Calculus, Probability and Statistics, Linear Algebra
 
 • **Statistics**: Analysis, Applied Regression Analysis, Biostatistics, Python Computer Programming, Data Analysis and Software Application (Stata)
 
