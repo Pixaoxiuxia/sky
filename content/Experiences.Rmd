@@ -82,6 +82,18 @@ Sep 2016 - Jun 2020, B.A. in Public Affairs Administration, School of Sociology 
 
 • 2018 Outstanding Student Award, RUC
 
+## Courses
+
+• **Population Health**: Social Medicine, Epidemiology of Population and Health, Social Research on Population and Reproductive Health, Topics in Health Economics
+
+• **Demography**: Introduction to Demography, Demographic Statistics, Population Sociology, Population: Issues and Research
+
+• **Life Course**: Introduction to Social Welfare, Social Gerontology, The Social Security and Welfare for Elderly
+
+• **Sex, Gender, and Sexuality**: Feminism and Social Work
+
+• **Quantitative Methods**: Statistics, Econometrics, Survival Analysis, Applied Regression Analysis, Biostatistics, Python Computer Programming, Data Analysis and Software Application (Stata)
+
 ## Teaching Assistant
 
 • 2022 *Quantitative Reasoning*, Guanghua School of Management, PKU
