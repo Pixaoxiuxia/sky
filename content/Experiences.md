@@ -14,7 +14,7 @@ Sep 2020 - Present, M.A. in Sociology (Gerontology), Institute of Population Res
 
 Feb 2019 - Jun 2019, Exchange in Sociology, Department of Sociology, [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/index.html) 
 
-Sep 2016 - Jun 2020, B.A. in Public Administration, School of Sociology & Demography, [Renming University of China (RUC)](https://www.ruc.edu.cn/en)
+Sep 2016 - Jun 2020, B.A. in Public Affairs Administration, School of Sociology & Demography, [Renmin University of China (RUC)](https://www.ruc.edu.cn/en)
 
 
 ## Research Experiences
