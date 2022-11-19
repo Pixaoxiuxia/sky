@@ -116,12 +116,13 @@ Sep 2016 - Jun 2020, B.A. in Public Affairs Administration, School of Sociology 
 
 ### Social Activities
 
-• 2022 Director of academic apartment in volunteer group *Colors World* for LGBTQ+ equality. The research report I wrote as lead author (Pseudonym: 胡桃/Walnut) was republished by several organizations dedicated to promoting sex and gender equality in China: [Colors World](https://colorsworld.top/articles/2022/ColorsWorld_2022-03-30%2021_%E5%8E%9F%E5%88%9B%E7%A0%94%E7%A9%B6%20_%202022%E5%B9%B4%E5%85%B3%E4%BA%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E7%9A%84%E7%A4%BE%E4%BC%9A%E6%80%81%E5%BA%A6%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A.html), [北同文化/Beijing LGBT Center](https://mp.weixin.qq.com/s/RkhMyjMeRcHsRKX6qG_q1g), [同语/Common Language](https://mp.weixin.qq.com/s/uPPHT73HO7oNKmefTdKQoQ), [莓辣/MAYLOVE](https://mp.weixin.qq.com/s/KCdn9x4ozTZQHNzuUKt2qw)
+• 2022 Director of academic apartment in 2022 Director of academic apartment in **Chinese LGBTQ+ community “Colors World”**. The research report I wrote as first author (Pseudonym: 胡桃/Walnut) was republished by several organizations dedicated to promoting sex and gender equality in China: [Colors World](https://colorsworld.top/articles/2022/ColorsWorld_2022-03-30%2021_%E5%8E%9F%E5%88%9B%E7%A0%94%E7%A9%B6%20_%202022%E5%B9%B4%E5%85%B3%E4%BA%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E7%9A%84%E7%A4%BE%E4%BC%9A%E6%80%81%E5%BA%A6%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A.html), [北同文化/Beijing LGBT Center](https://mp.weixin.qq.com/s/RkhMyjMeRcHsRKX6qG_q1g), [同语/Common Language](https://mp.weixin.qq.com/s/uPPHT73HO7oNKmefTdKQoQ), [莓辣/MAYLOVE](https://mp.weixin.qq.com/s/KCdn9x4ozTZQHNzuUKt2qw)
 
-• 2018-2019 Vice chairman of the *Student Union* of School of Sociology & Demography, RUC
+• 2018-2019 Vice chairman of the **Student Union** of School of Sociology & Demography, RUC
 
-• 2017 Editorial assistant in *Journal of Population Studies*
+• 2017 Editorial assistant in **Journal of Population Studies**
 
+• 2016-2018 Joined the **Community of Think and Action dedicated in caring for workers and farmers**
 
 ### Visiting Experience
 
