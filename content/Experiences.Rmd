@@ -10,7 +10,7 @@ output:
 
 ## Education
 
-Sep 2020 - Present, M.A. in Sociology (Gerontology), Institute of Population Research, [Peking University (PKU)](https://english.pku.edu.cn/)
+Sep 2020 - Jun 2023, M.A. in Sociology (Gerontology), Institute of Population Research, [Peking University (PKU)](https://english.pku.edu.cn/)
 
 Feb 2019 - Jun 2019, Exchange in Sociology, Department of Sociology, [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/index.html) 
 
@@ -109,7 +109,7 @@ Sep 2016 - Jun 2020, B.A. in Public Affairs Administration, School of Sociology 
 
 • 2021 *Content Analysis*, Workshops on Social Science Research Methods, PKU
 
-• 2020 *Application Practice of Data Analysis*, School of Sociology & Demography, RUC
+• 2020 *Application Practice of Data Analysis*, School of Sociology and Population Studies, RUC
 
 
 ## Social Activities
@@ -118,7 +118,7 @@ Sep 2016 - Jun 2020, B.A. in Public Affairs Administration, School of Sociology 
 
 • 2022 President of academic apartment in 2022 Director of academic apartment in **Chinese LGBTQ+ community “Colors World”**. The research report I wrote as first author (Pseudonym: 胡桃/Walnut) was republished by several organizations dedicated to promoting sex and gender equality in China: [Colors World](https://colorsworld.top/articles/2022/ColorsWorld_2022-03-30%2021_%E5%8E%9F%E5%88%9B%E7%A0%94%E7%A9%B6%20_%202022%E5%B9%B4%E5%85%B3%E4%BA%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E7%9A%84%E7%A4%BE%E4%BC%9A%E6%80%81%E5%BA%A6%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A.html), [北同文化/Beijing LGBT Center](https://mp.weixin.qq.com/s/RkhMyjMeRcHsRKX6qG_q1g), [同语/Common Language](https://mp.weixin.qq.com/s/uPPHT73HO7oNKmefTdKQoQ), [莓辣/MAYLOVE](https://mp.weixin.qq.com/s/KCdn9x4ozTZQHNzuUKt2qw)
 
-• 2018-2019 Vice chairman of the **Student Union** of School of Sociology & Demography, RUC
+• 2018-2019 Vice chairman of the **Student Union** of School of Sociology and Population Studies, RUC
 
 • 2017 Editorial assistant in **Journal of Population Studies**
 
