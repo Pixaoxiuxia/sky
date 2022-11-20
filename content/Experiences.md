@@ -94,7 +94,7 @@ Sep 2016 - Jun 2020, B.A. in Public Affairs Administration, School of Sociology 
 
 • **Quantitative Coursework**: Calculus, Probability and Statistics, Linear Algebra
 
-• **Statistics**: Statistics, Survival Analysis, Applied Regression Analysis, Biostatistics, Data Analysis and Software Application (Stata)
+• **Statistics**: Statistics, Survival Analysis, Applied Regression Analysis, Mixed Models and Application, Biostatistics, Data Analysis and Software Application (Stata)
 
 • **Programming**: Python Computer Programming
 	
