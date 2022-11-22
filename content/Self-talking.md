@@ -38,6 +38,8 @@ output:
 
 • Elena Ferrante [Italy]: *L'amica geniale / My Brilliant Friend*
 
+• Susan Sontag [US]: *Illness as Metaphor ＆ AIDS and Its Metaphors*
+
 ## Movie List
 
 ### 隐入尘烟 / Return to Dust
@@ -45,6 +47,16 @@ output:
 • 2022
 
 • Director: 李睿珺 / Ruijun Li [China]
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211221438900.png" alt="drawing" width="30%" />
+</div>
+
+### Close
+
+• 2022
+
+• Director: Lukas Dhont [Belgium]
 
 <div align="left">
 <img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211172144235.png" alt="drawing" width="30%" />
