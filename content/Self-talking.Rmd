@@ -49,8 +49,9 @@ output:
 • Director: 李睿珺 / Ruijun Li [China]
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211221438900.png" alt="drawing" width="30%" />
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211172144235.png" alt="drawing" width="30%" />
 </div>
+
 
 ### Close
 
@@ -59,7 +60,7 @@ output:
 • Director: Lukas Dhont [Belgium]
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211172144235.png" alt="drawing" width="30%" />
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211221438900.png" alt="drawing" width="30%" />
 </div>
 
 ### L'Événement / Happening
