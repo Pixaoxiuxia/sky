@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-author: "Population Health•Demography•Quantitative Methods"
+author: "Population Health•Demography•Life Course•Sex, Gender, and Sexuality•Quantitative Methods"
 date: 
 output: 
   html_document:
@@ -11,7 +11,7 @@ output:
 ## Research Papers in Peer-Reviewed Publications
 
 ### Population Health
-• Chao Guo, **Xiyuan Hu**, Chaofan Xu, & Xiaoying Zheng. (2022).  Association Between Olympic Games and Children’s Growth: Evidence from China. *British Journal of Sports Medicine*, bjsports-2021-104844. [doi](https://bjsm.bmj.com/content/56/19/1110).
+• Chao Guo, **Xiyuan Hu**, Chaofan Xu, & Xiaoying Zheng. (2022).  Association Between Olympic Games and Children’s Growth: Evidence from China. *British Journal of Sports Medicine*, 56:1110-1114. [doi](https://bjsm.bmj.com/content/56/19/1110).
 
 • Chao Guo, **Xiyuan Hu**, Dianqi Yuan, Yuyu Zeng, & Peisen Yang. (2022). The Effect of COVID-19 on Public Confidence in the World Health Organization: A Natural Experiment Among 40 Countries. *Globalization and Health*, 18(1), 77. [doi](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-022-00872-y).
 
@@ -32,7 +32,7 @@ output:
 
 ## Life Course
 
-• **Xiyuan Hu**, Chao Guo, Jie Liu, & Ketian Zhang. (2022). Bridging the Digital Divide: Childhood Social Relationships and Mobile Payment Use Among Chinese Middle-Aged and Older Adults. *Journal of Applied Gerontology*, 07334648221117771. [doi](https://journals.sagepub.com/doi/10.1177/07334648221117771).
+• **Xiyuan Hu**, Chao Guo, Jie Liu, & Ketian Zhang. (2022). Bridging the Digital Divide: Childhood Social Relationships and Mobile Payment Use Among Chinese Middle-Aged and Older Adults. *Journal of Applied Gerontology*, 41(12), 2469–2479. [doi](https://journals.sagepub.com/doi/10.1177/07334648221117771).
 
 • Yihao, Zhao, **Xiyuan Hu**, & Chao Guo. (2022). Long-Term Effects of Pregnancy Exposure to Natural Disasters on Physical Health: A Review. *Chinese Journal of Public Health*, 38(08), 1082-1087. [doi](https://www.zgggws.com/cn/article/doi/10.11847/zgggws1136302). [In Chinese].
 
@@ -46,16 +46,16 @@ output:
 
 # Conference Presentations
 
-• **Xiyuan Hu**, & Chao Guo. (2022). Analysis on Predisposing, Enabling, Need and Health Behavioral Factors of Physical Examination among Chinese Middle Aged and Older Adults. *Annual Meeting of the Population Association of America*, Atlanta, Georgia (April). [Poster](/Publications/Poster-PAA.png).
+• **Xiyuan Hu**, & Chao Guo. (Apr 2022). Analysis on Predisposing, Enabling, Need and Health Behavioral Factors of Physical Examination among Chinese Middle Aged and Older Adults. *Annual Meeting of the Population Association of America*, Atlanta, Georgia. [Poster](/Publications/Poster-PAA.png).
 
-• **Xiyuan Hu**, & Chao Guo. (2021). The identification Course of Sex Orientation of Chinese Gay Men. *International Population Conference*, Hyderabad, India (December). [Poster](/Publications/Poster-IPC.png).
+• **Xiyuan Hu**, & Chao Guo. (Dec 2021). The identification Course of Sex Orientation of Chinese Gay Men. *International Population Conference*, Hyderabad, India. [Poster](/Publications/Poster-IPC.png).
+
+• **Xiyuan Hu**, Heng Wang, & Chao Guo. (Apr 2023). Sex and Gender Disparities in Perception, Attitude and Social Intimacy among Sinophone Youth towards Transgender and Gender Nonconforming Individuals: Based on an Internet Survey. *Annual Meeting of the Population Association of America*, New Orleans, Louisiana. Accepted to the Oral Session. 
 
 # Working Papers
 
 • Yueping Song, **Xiyuan Hu**, & Hantao Wu. The Impact of Nutrition Investment on Educational Performance of Rural Adolescents: Evidence From Free Nutrition Lunch Policy.
 
 • Xinhui Zhang, **Xiyuan Hu**, & Chen Gong. Do Co-residing Older Adults Have Healthier Lifestyle Than Empty Nesters: Residential Arrangement and Healthy Kifestyle.
-
-• **Xiyuan Hu**, Heng Wang, & Chao Guo. Sex and Gender Disparities in Perception, Attitude and Social Intimacy among Sinophone Youth towards Transgender and Gender Nonconforming Individuals: Based on an Internet Survey.
 
 • **Xiyuan Hu**, Dan Lu, Wenwen Wang, Heng Wang, & Chao Guo. In the Name of Growth: The Significance of Growing Environment and Communications Media in the Identification Course of Chinese Male Homosexual Orientation. [In Chinese].
