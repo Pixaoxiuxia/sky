@@ -23,6 +23,8 @@ output:
 
 • Yueping Song, **Xiyuan Hu**, & Xiuchen Long. (2022). Influence of Free Nutrition Lunch Policy on Overweight of Rural Adolescents: Based on China Education Panel Survey Junior High School Cohort Data. *Chinese Journal of Epidemiology*, 43(6), 885-891. [doi](https://www.webofscience.com/wos/alldb/full-record/MEDLINE:35725346). [In Chinese].
 
+• **Xiyuan Hu**, Wen Cui, & Chao Guo. (2022). Analysis on Physical Examination Status and Its Predisposing, Enabling, Need and Healty Behavioral Influencing Factors Among Middle-aged and Older Chinese Residents. *Chinese Journal of Public Health*, 38(10), 1253-1257. [doi](https://www.zgggws.com/cn/article/doi/10.11847/zgggws1136992). [In Chinese].
+
 ## Demography
 
 • Chao Guo, **Xiyuan Hu**, Man Zhao, Jie Liu, & Chao Guo. (Forthcoming). Potential Contribution of Fecundity Compensation to the Improvement of Fertility. *Population and Development*. [In Chinese].
