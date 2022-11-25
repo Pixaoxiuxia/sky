@@ -63,6 +63,16 @@ output:
 <img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211221438900.png" alt="drawing" width="30%" />
 </div>
 
+### 헤어질 결심 / Decision to Leave
+
+• 2022
+
+• Director: 박찬욱 / Chan-wook Park [Korea]
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211252053424.png" alt="drawing" width="30%" />
+</div>
+
 ### L'Événement / Happening
 
 • 2021
@@ -87,7 +97,7 @@ output:
 
 • 2018
 
-• Director: 이창동 / Lee Chang-dong
+• Director: 이창동 / Lee Chang-dong [Korea]
 
 <div align="left">
 <img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202211172155914.png" alt="drawing" width="30%" />
