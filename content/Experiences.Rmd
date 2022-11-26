@@ -92,7 +92,7 @@ Sep 2016 - Jun 2020, B.A. in Public Affairs Administration, School of Sociology 
 
 • **Economics**: Principles of Economics, Intermediate Microeconomics, Intermediate Macroeconomics, Econometrics, Economics of Money and Finance
 
-• **Life Course**: Introduction to Social Welfare, Social Gerontology, Social Security and Welfare for Elderly
+• **Life Course**: Social Gerontology, Social Security and Welfare for Elderly
 
 • **Sex, Gender, and Sexuality**: Feminism and Social Work
 
