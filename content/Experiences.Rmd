@@ -76,7 +76,7 @@ Sep 2016 - Jun 2020, B.A. in Public Affairs Administration, School of Sociology 
 
 • 2021-2022 Outstanding Student Award, PKU
 
-• 2020 Outstanding Graduates, RUC
+• 2020 Outstanding Graduate, RUC
 
 • 2017-2019 National Encouragement Scholarship, Minister of Education of China
 
