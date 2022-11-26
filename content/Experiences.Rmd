@@ -88,16 +88,21 @@ Sep 2016 - Jun 2020, B.A. in Public Affairs Administration, School of Sociology 
 
 • **Demography**: Introduction to Demography, Demographic Statistics, Population Sociology, Population: Issues and Research
 
-• **Life Course**: Introduction to Social Welfare, Social Gerontology, The Social Security and Welfare for Elderly
+• **Sociology**: Introduction to Sociology, Social Science Research: Theory & Practice 
+
+• **Economics**: Principles of Economics, Intermediate Microeconomics, Intermediate Macroeconomics, Econometrics, Economics of Money and Finance
+
+• **Life Course**: Introduction to Social Welfare, Social Gerontology, Social Security and Welfare for Elderly
 
 • **Sex, Gender, and Sexuality**: Feminism and Social Work
 
-• **Quantitative Coursework**: Calculus, Probability and Statistics, Linear Algebra
+• **Mathematics**: Calculus, Probability and Statistics, Linear Algebra
 
-• **Statistics**: Statistics, Survival Analysis, Applied Regression Analysis, Mixed Models and Application, Biostatistics, Data Analysis and Software Application (Stata)
+• **Quantitative Methods**: Statistics, Survival Analysis, Applied Regression Analysis, Mixed Models and Application, Biostatistics, Data Analysis and Software Application (Stata)
+
+• **Qualitative Methods**: Qualitative Analysis Methods
 
 • **Programming**: Python Computer Programming
-	
 	
 ## Teaching Assistant
 
