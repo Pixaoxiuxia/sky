@@ -19,7 +19,7 @@ Sep 2016 - Jun 2020, B.A. in Public Affairs Administration, School of Sociology 
 
 ## Research Experiences
 
-### National Natural Science Foundation of China (2022-2024)
+### Project supported by National Natural Science Foundation of China (2022-2024)
 • Jan 2022 - Present
 
 • RA in *Utility Evaluation and Improvement Path of Intelligent Technology in Promoting Aging Health*. Grant no.71373012
@@ -35,7 +35,7 @@ Sep 2016 - Jun 2020, B.A. in Public Affairs Administration, School of Sociology 
 
 • RA in *Study on the Development of Women and Children in Beijing*. Grant no.8300400418
 
-### National Social Science Foundation of China (2018-2021)
+### Project supported by National Social Science Foundation of China (2018-2021)
 
 • Sep 2020 - Sep 2021
 
