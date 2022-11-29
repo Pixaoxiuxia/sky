@@ -22,6 +22,8 @@ Hello everyone, welcome to my website! I am a graduate student in Institute of P
 
 *Life Course*
 
+*Health Economics*
+
 *Sex, Gender, and Sexuality*
 
 *Quantitative Methods*
