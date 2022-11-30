@@ -84,15 +84,15 @@ Sep 2016 - Jun 2020, B.A. in Public Affairs Administration, School of Sociology 
 
 ## Courses
 
-• **Population Health**: Social Medicine, Epidemiology of Population and Health, Social Research on Population and Reproductive Health, Topics in Health Economics
+• **Epidemiology**: Social Medicine, Epidemiology of Population and Health, Social Research on Population and Reproductive Health
 
 • **Demography**: Introduction to Demography, Demographic Statistics, Population Sociology, Population: Issues and Research
 
 • **Sociology**: Introduction to Sociology, Social Science Research: Theory & Practice 
 
-• **Economics**: Principles of Economics, Intermediate Microeconomics, Intermediate Macroeconomics, Econometrics, Economics of Money and Finance
+• **Economics**: Principles of Economics, Intermediate Microeconomics, Intermediate Macroeconomics, Econometrics, Economics of Money and Finance, Topics in Health Economics
 
-• **Life Course**: Social Gerontology, Social Security and Welfare for Elderly
+• **Life Course and Gerontology**: Social Gerontology, Social Security and Welfare for Elderly
 
 • **Sex, Gender, and Sexuality**: Feminism and Social Work
 
