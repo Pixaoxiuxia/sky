@@ -10,7 +10,7 @@ output:
 
 # Research Papers in Peer-Reviewed Publications
 
-## Population Health
+### Population Health
 • Chao Guo, **Xiyuan Hu**, Chaofan Xu, & Xiaoying Zheng. (2022).  Association Between Olympic Games and Children’s Growth: Evidence from China. *British Journal of Sports Medicine*, 56:1110-1114. [doi](https://bjsm.bmj.com/content/56/19/1110).
 
 • Chao Guo, **Xiyuan Hu**, Dianqi Yuan, Yuyu Zeng, & Peisen Yang. (2022). The Effect of COVID-19 on Public Confidence in the World Health Organization: A Natural Experiment Among 40 Countries. *Globalization and Health*, 18(1), 77. [doi](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-022-00872-y).
@@ -25,20 +25,20 @@ output:
 
 • **Xiyuan Hu**, Wen Cui, & Chao Guo. (2022). Analysis on Physical Examination Status and Its Predisposing, Enabling, Need and Healty Behavioral Influencing Factors Among Middle-aged and Older Chinese Residents. *Chinese Journal of Public Health*, 38(10), 1253-1257. [doi](https://www.zgggws.com/cn/article/doi/10.11847/zgggws1136992). [In Chinese].
 
-## Demography
+### Demography
 
 • Chao Guo, **Xiyuan Hu**, Man Zhao, Jie Liu, & Chao Guo. (Forthcoming). Potential Contribution of Fecundity Compensation to the Improvement of Fertility. *Population and Development*. [In Chinese].
 
 • **Xiyuan Hu**, & Chao Guo. (Forthcoming). The Effect of Chronic Disease, Disability, and Dementia on All-Cause Mortality Among Older Adults in China: A Population-Based Prospective Cohort Study. *Chinese Journal of Epidemiology*. [In Chinese].
 
 
-## Life Course
+### Life Course
 
 • **Xiyuan Hu**, Chao Guo, Jie Liu, & Ketian Zhang. (2022). Bridging the Digital Divide: Childhood Social Relationships and Mobile Payment Use Among Chinese Middle-Aged and Older Adults. *Journal of Applied Gerontology*, 41(12), 2469–2479. [doi](https://journals.sagepub.com/doi/10.1177/07334648221117771).
 
 • Yihao, Zhao, **Xiyuan Hu**, & Chao Guo. (2022). Long-Term Effects of Pregnancy Exposure to Natural Disasters on Physical Health: A Review. *Chinese Journal of Public Health*, 38(08), 1082-1087. [doi](https://www.zgggws.com/cn/article/doi/10.11847/zgggws1136302). [In Chinese].
 
-## Sex, Gender, and Sexuality
+### Sex, Gender, and Sexuality
 
 • Chaofan Xu, **Xiyuan Hu**, Man Zhao, & Chao Guo. (Forthcoming). Will the Believer Be More Traditional: Research on the Relationship Between Religious Belief and Tolerance of Socially Sensitive Behaviors. *Studies in World Religions*. [In Chinese].
 
