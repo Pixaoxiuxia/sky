@@ -8,9 +8,9 @@ output:
     toc_float: true
 ---
 
-## Research Papers in Peer-Reviewed Publications
+# Research Papers in Peer-Reviewed Publications
 
-### Population Health
+## Population Health
 • Chao Guo, **Xiyuan Hu**, Chaofan Xu, & Xiaoying Zheng. (2022).  Association Between Olympic Games and Children’s Growth: Evidence from China. *British Journal of Sports Medicine*, 56:1110-1114. [doi](https://bjsm.bmj.com/content/56/19/1110).
 
 • Chao Guo, **Xiyuan Hu**, Dianqi Yuan, Yuyu Zeng, & Peisen Yang. (2022). The Effect of COVID-19 on Public Confidence in the World Health Organization: A Natural Experiment Among 40 Countries. *Globalization and Health*, 18(1), 77. [doi](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-022-00872-y).
@@ -48,11 +48,11 @@ output:
 
 # Conference Presentations
 
+• **Xiyuan Hu**, Heng Wang, & Chao Guo. (Apr 2023). Sex and Gender Disparities in Perception, Attitude and Social Intimacy among Sinophone Youth towards Transgender and Gender Nonconforming Individuals: Based on an Internet Survey. *Annual Meeting of the Population Association of America*, New Orleans, Louisiana. Accepted to the Oral Session. 
+
 • **Xiyuan Hu**, & Chao Guo. (Apr 2022). Analysis on Predisposing, Enabling, Need and Health Behavioral Factors of Physical Examination among Chinese Middle Aged and Older Adults. *Annual Meeting of the Population Association of America*, Atlanta, Georgia. [Poster](/Publications/Poster-PAA.png).
 
 • **Xiyuan Hu**, & Chao Guo. (Dec 2021). The identification Course of Sex Orientation of Chinese Gay Men. *International Population Conference*, Hyderabad, India. [Poster](/Publications/Poster-IPC.png).
-
-• **Xiyuan Hu**, Heng Wang, & Chao Guo. (Apr 2023). Sex and Gender Disparities in Perception, Attitude and Social Intimacy among Sinophone Youth towards Transgender and Gender Nonconforming Individuals: Based on an Internet Survey. *Annual Meeting of the Population Association of America*, New Orleans, Louisiana. Accepted to the Oral Session. 
 
 # Working Papers
 
