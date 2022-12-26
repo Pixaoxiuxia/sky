@@ -42,6 +42,26 @@ output:
 
 ## Movie List
 
+### Joyland 
+
+• 2022
+
+• Director: Saim Sadiq [Pakistan]
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202212261141619.png" alt="drawing" width="30%" />
+</div>
+
+### Les nuits de Mashhad / Holy Spider
+
+• 2022
+
+• Director: Ali Abbasi [Iran]
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202212261138393.png" alt="drawing" width="30%" />
+</div>
+
 ### 隐入尘烟 / Return to Dust
 
 • 2022
