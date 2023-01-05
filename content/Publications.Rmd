@@ -29,8 +29,7 @@ output:
 
 • Chao Guo, **Xiyuan Hu**, Man Zhao, Jie Liu, & Chao Guo. (Forthcoming). Potential Contribution of Fecundity Compensation to the Improvement of Fertility. *Population and Development*. [In Chinese].
 
-• **Xiyuan Hu**, & Chao Guo. (Forthcoming). The Effect of Chronic Disease, Disability, and Dementia on All-Cause Mortality Among Older Adults in China: A Population-Based Prospective Cohort Study. *Chinese Journal of Epidemiology*. [In Chinese].
-
+• **Xiyuan Hu**, & Chao Guo. (2022). The Effect of Chronic Disease, Disability, and Dementia on All-Cause Mortality Among Older Adults in China: A Population-Based Prospective Cohort Study. *Chinese Journal of Epidemiology*, 26(12), 1426-1432. [doi](https://zhjbkz.ahmu.edu.cn/cn/article/doi/10.16462/j.cnki.zhjbkz.2022.12.011). [In Chinese].
 
 ### Life Course
 
