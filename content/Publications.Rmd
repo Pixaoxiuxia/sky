@@ -51,7 +51,7 @@ output:
 
 • **Xiyuan Hu**, & Chao Guo. (Apr 2022). Analysis on Predisposing, Enabling, Need and Health Behavioral Factors of Physical Examination among Chinese Middle Aged and Older Adults. *Annual Meeting of the Population Association of America*, Atlanta, Georgia. [Poster](/Publications/Poster-PAA.png).
 
-• **Xiyuan Hu**, & Chao Guo. (Dec 2021). The identification Course of Sex Orientation of Chinese Gay Men. *International Population Conference*, Hyderabad, India. [Poster](/Publications/Poster-IPC.png).
+• **Xiyuan Hu**, & Chao Guo. (Dec 2021). The Journey of Awareness: The Identification Course of Chinese Male Homosexual Orientation. *International Population Conference*, Hyderabad, India. [Poster](/Publications/Poster-IPC.png).
 
 # Working Papers
 
