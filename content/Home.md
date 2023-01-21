@@ -15,7 +15,7 @@ output:
 Hello everyone, welcome to my website! I am a graduate student in Institute of Population Research at Peking University.
 
 ## Research interests
-*Population Health*
+*Population Health / Medical Sociology*
 
 *Demography*
 
