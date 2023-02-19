@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-author: "Population Health•Demography•Life Course•Sex, Gender, and Sexuality•Quantitative Methods"
+author: "Population Health•Gerontology•Demography•Life Course•Sex, Gender, and Sexuality•Quantitative Methods"
 date: 
 output: 
   html_document:
