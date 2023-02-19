@@ -31,7 +31,7 @@ output:
 
 • **Xiyuan Hu**, & Chao Guo. (2022). The Effect of Chronic Disease, Disability, and Dementia on All-Cause Mortality Among Older Adults in China: A Population-Based Prospective Cohort Study. *Chinese Journal of Epidemiology*, 26(12), 1426-1432. [doi](https://zhjbkz.ahmu.edu.cn/cn/article/doi/10.16462/j.cnki.zhjbkz.2022.12.011). [In Chinese].
 
-### Life Course
+### Life Course / Gerontology
 
 • **Xiyuan Hu**, Chao Guo, Jie Liu, & Ketian Zhang. (2022). Bridging the Digital Divide: Childhood Social Relationships and Mobile Payment Use Among Chinese Middle-Aged and Older Adults. *Journal of Applied Gerontology*, 41(12), 2469–2479. [doi](https://journals.sagepub.com/doi/10.1177/07334648221117771).
 

@@ -19,7 +19,7 @@ Hello everyone, welcome to my website! I am a graduate student in Institute of P
 
 *Demography*
 
-*Life Course*
+*Life Course / Gerontology*
 
 *Sex, Gender, and Sexuality*
 

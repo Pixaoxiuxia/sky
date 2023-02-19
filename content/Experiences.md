@@ -10,7 +10,7 @@ output:
 
 ## Education
 
-Sep 2020 - Jun 2023, Master in  Gerontology, Institute of Population Research, [Peking University (PKU)](https://english.pku.edu.cn/)
+Sep 2020 - Jun 2023, Master in Gerontology, Institute of Population Research, [Peking University (PKU)](https://english.pku.edu.cn/)
 
 Feb 2019 - Jun 2019, Exchange in Sociology, Department of Sociology, [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/index.html) 
 
