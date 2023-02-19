@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-author: "Population Health•Medical Sociology•Demography•Life Course•Sex, Gender, and Sexuality•Quantitative Methods"
+author: "Population Health•Demography•Life Course•Sex, Gender, and Sexuality•Quantitative Methods"
 date: 
 output: 
   html_document:
@@ -10,7 +10,7 @@ output:
 
 # Research Papers in Peer-Reviewed Publications
 
-### Population Health / Medical Sociology
+### Population Health
 • Chao Guo, **Xiyuan Hu**, Chaofan Xu, & Xiaoying Zheng. (2022).  Association Between Olympic Games and Children’s Growth: Evidence from China. *British Journal of Sports Medicine*, 56:1110-1114. [doi](https://bjsm.bmj.com/content/56/19/1110).
 
 • Chao Guo, **Xiyuan Hu**, Dianqi Yuan, Yuyu Zeng, & Peisen Yang. (2022). The Effect of COVID-19 on Public Confidence in the World Health Organization: A Natural Experiment Among 40 Countries. *Globalization and Health*, 18(1), 77. [doi](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-022-00872-y).
