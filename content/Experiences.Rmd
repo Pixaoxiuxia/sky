@@ -10,7 +10,9 @@ output:
 
 ## Education
 
-Sep 2020 - Jun 2023, Master in Gerontology, Institute of Population Research, [Peking University (PKU)](https://english.pku.edu.cn/)
+Sep 2023 - Present, Ph.D. student in Population Health, Department of Population Health Sciences, [University of Wisconsin-Madison (UW-Madison)](https://www.wisc.edu/)
+
+Sep 2020 - Jul 2023, Master in Gerontology, Institute of Population Research, [Peking University (PKU)](https://english.pku.edu.cn/)
 
 Feb 2019 - Jun 2019, Exchange in Sociology, Department of Sociology, [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/index.html) 
 
@@ -56,19 +58,23 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 • Leader in *Faith in the Twilight Years: An Exploration of the Religious Course of Chinese Older Adults*. Second Prize. (about $350)
 
-### The Undergraduate Innovative Test Program of RUC
+## Teaching Assistant
 
-• May 2018 - Jun 2019
+• 2022 *Quantitative Reasoning*, Guanghua School of Management, PKU
 
-• Major participant in *The Status Quo and Influencing Factors of Chinese Ex-servicemen's Social Integration: An Empirical Study Based On Social Integration Theory*. (about $700)
+• 2022 *Fundamentals of Applied Mathematics*, Workshops on Social Science Research Methods, PKU
 
-### The Undergraduate Scientific Research Foundation Project of RUC
+• 2021 *Application of Multivariate Statistics*, Workshops on Social Science Research Methods, PKU
 
-• May 2018 - Jun 2019
+• 2021 *Content Analysis*, Workshops on Social Science Research Methods, PKU
 
-• Leader in *Labor or Need: Analysis on the Major Diversion System of Colleges and Universities*. (about $700)
+• 2020 *Application Practice of Data Analysis*, School of Sociology and Population Studies, RUC
 
 ##	Awards & Honors
+
+• 2023 Energy Analysis and Policy Student Scholarship, EAP program of UW-Madison
+
+• 2023 Outstanding Graduate, PKU
 
 • 2021-2022 National Scholarship, Minister of Education of China
 
@@ -76,7 +82,7 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 • 2021-2022 Outstanding Student Award, PKU
 
-• 2020 Outstanding Graduate, RUC
+• 2020 Outstanding Graduate, School of Sociology and Population Studies of RUC
 
 • 2017-2019 National Encouragement Scholarship, Minister of Education of China
 
@@ -104,17 +110,6 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 • **Programming**: Python Computer Programming
 	
-## Teaching Assistant
-
-• 2022 *Quantitative Reasoning*, Guanghua School of Management, PKU
-
-• 2022 *Fundamentals of Applied Mathematics*, Workshops on Social Science Research Methods, PKU
-
-• 2021 *Application of Multivariate Statistics*, Workshops on Social Science Research Methods, PKU
-
-• 2021 *Content Analysis*, Workshops on Social Science Research Methods, PKU
-
-• 2020 *Application Practice of Data Analysis*, School of Sociology and Population Studies, RUC
 
 
 ## Social Activities
@@ -135,6 +130,8 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 
 ### Volunteering
+
+• 2023 *Volunteer teaching* in Gaolan County, Gansu Province, China
 
 • 2018 *Volunteer* at the elephant care progam in Umphang, Thailand
 

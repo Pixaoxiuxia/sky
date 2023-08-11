@@ -12,20 +12,13 @@ tags: []
 <img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202302192256658.jpg" alt="drawing" width="20%" />
 </div>
 
-Hello everyone, welcome to my website! I am a graduate student in Institute of Population Research at Peking University.
+Hello everyone, welcome to my website! I am Xiyuan Hu. My research interests focus on health and gender. 
 
 
-## Research interests
-*Population Health*
+## Interests
 
-*Demography*
+*Travelling*
 
-*Life Course / Gerontology*
+*Reading*
 
-*Sex, Gender, and Sexuality*
-
-*Quantitative Methods*
-
-## Links
-[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=ALw8qQoAAAAJ) | [ORCID ID](https://orcid.org/my-orcid?orcid=0000-0003-0074-6083)
-
+*Watching Movie/Drama*
