@@ -25,21 +25,23 @@ output:
 
 ### In Chinese
 
-• **Xiyuan Hu**, & Chao Guo\*. (2022). The Association Between Military Experience and Health Among Older Adults Aged 60 and Above In China. *Chinese Journal of Disease Control & Prevention*, 26(1), 105. [doi](https://www.webofscience.com/wos/alldb/full-record/CSCD:7143465). [In Chinese].
+• Yueping Song, & **Xiyuan Hu**. (2023). Nutrition Investment and Academic Performance of Rural Adolescents—Evidence from the nutrition improvement program for rural students receiving compulsory education. *Journal of Xiangtan University(Philosophy and Social Sciences)*, 47(05), 24-31. [doi](http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=XTDX202305004&uniplatform=OVERSEA&v=JTW6jbiO746pdFzuEUakwrapTeFjxgew5yO-SVKCOO2rOrNMY68gVkQTaE8C9nrW).
 
-• **Xiyuan Hu**, & Chao Guo\*. (2022). The Effect of Chronic Disease, Disability, and Dementia on All-Cause Mortality Among Older Adults in China: A Population-Based Prospective Cohort Study. *Chinese Journal of Epidemiology*, 26(12), 1426-1432. [doi](https://zhjbkz.ahmu.edu.cn/cn/article/doi/10.16462/j.cnki.zhjbkz.2022.12.011). [In Chinese].
+• **Xiyuan Hu**, & Chao Guo\*. (2022). The Association Between Military Experience and Health Among Older Adults Aged 60 and Above In China. *Chinese Journal of Disease Control & Prevention*, 26(1), 105. [doi](https://www.webofscience.com/wos/alldb/full-record/CSCD:7143465).
 
-• **Xiyuan Hu**, Wen Cui, & Chao Guo\*. (2022). Analysis on Physical Examination Status and Its Predisposing, Enabling, Need and Healty Behavioral Influencing Factors Among Middle-aged and Older Chinese Residents. *Chinese Journal of Public Health*, 38(10), 1253-1257. [doi](https://www.zgggws.com/cn/article/doi/10.11847/zgggws1136992). [In Chinese].
+• **Xiyuan Hu**, & Chao Guo\*. (2022). The Effect of Chronic Disease, Disability, and Dementia on All-Cause Mortality Among Older Adults in China: A Population-Based Prospective Cohort Study. *Chinese Journal of Epidemiology*, 26(12), 1426-1432. [doi](https://zhjbkz.ahmu.edu.cn/cn/article/doi/10.16462/j.cnki.zhjbkz.2022.12.011). 
 
-• Long Li, Ying Tang, & **Xiyuan Hu**\*. (2022). How Living with Grandparents Affects the Health Status of Middle School Adolescents: A Multidimensional Study Based on CEPS. *Chinese Journal of Health Policy*, 15(6), 39-45. [doi](https://www.webofscience.com/wos/alldb/full-record/CSCD:7278575). [In Chinese].
+• **Xiyuan Hu**, Wen Cui, & Chao Guo\*. (2022). Analysis on Physical Examination Status and Its Predisposing, Enabling, Need and Healty Behavioral Influencing Factors Among Middle-aged and Older Chinese Residents. *Chinese Journal of Public Health*, 38(10), 1253-1257. [doi](https://www.zgggws.com/cn/article/doi/10.11847/zgggws1136992). 
 
-• Yueping Song\*, **Xiyuan Hu**, & Xiuchen Long. (2022). Influence of Free Nutrition Lunch Policy on Overweight of Rural Adolescents: Based on China Education Panel Survey Junior High School Cohort Data. *Chinese Journal of Epidemiology*, 43(6), 885-891. [doi](https://www.webofscience.com/wos/alldb/full-record/MEDLINE:35725346). [In Chinese].
+• Long Li, Ying Tang, & **Xiyuan Hu**\*. (2022). How Living with Grandparents Affects the Health Status of Middle School Adolescents: A Multidimensional Study Based on CEPS. *Chinese Journal of Health Policy*, 15(6), 39-45. [doi](https://www.webofscience.com/wos/alldb/full-record/CSCD:7278575).
 
-• Yihao, Zhao, **Xiyuan Hu**, & Chao Guo\*. (2022). Long-Term Effects of Pregnancy Exposure to Natural Disasters on Physical Health: A Review. *Chinese Journal of Public Health*, 38(08), 1082-1087. [doi](https://www.zgggws.com/cn/article/doi/10.11847/zgggws1136302). [In Chinese].
+• Yueping Song\*, **Xiyuan Hu**, & Xiuchen Long. (2022). Influence of Free Nutrition Lunch Policy on Overweight of Rural Adolescents: Based on China Education Panel Survey Junior High School Cohort Data. *Chinese Journal of Epidemiology*, 43(6), 885-891. [doi](https://www.webofscience.com/wos/alldb/full-record/MEDLINE:35725346).
 
-• Chaofan Xu, **Xiyuan Hu**, Man Zhao, & Chao Guo\*. (Forthcoming). Will the Believer Be More Traditional: Research on the Relationship Between Religious Belief and Tolerance of Socially Sensitive Behaviors. *Studies in World Religions*. [In Chinese].
+• Yihao, Zhao, **Xiyuan Hu**, & Chao Guo\*. (2022). Long-Term Effects of Pregnancy Exposure to Natural Disasters on Physical Health: A Review. *Chinese Journal of Public Health*, 38(08), 1082-1087. [doi](https://www.zgggws.com/cn/article/doi/10.11847/zgggws1136302).
 
-• Chao Guo\*, **Xiyuan Hu**, Man Zhao, & Jie Liu. (Forthcoming). Potential Contribution of Fecundity Compensation to the Improvement of Fertility. *Population and Development*. [In Chinese].
+• Chaofan Xu, **Xiyuan Hu**, Man Zhao, & Chao Guo\*. (Forthcoming). Will the Believer Be More Traditional: Research on the Relationship Between Religious Belief and Tolerance of Socially Sensitive Behaviors. *Studies in World Religions*.
+
+• Chao Guo\*, **Xiyuan Hu**, Man Zhao, & Jie Liu. (Forthcoming). Potential Contribution of Fecundity Compensation to the Improvement of Fertility. *Population and Development*.
 
 # Book
 
@@ -57,8 +59,3 @@ output:
 
 • **Xiyuan Hu**\#, & Chao Guo. (Dec 2021). The Journey of Awareness: The Identification Course of Chinese Male Homosexual Orientation. *International Population Conference*, Hyderabad, India. [Poster](/Publications/Poster-IPC.png).
 
-# Working Papers
-
-• Yueping Song, **Xiyuan Hu**, & Hantao Wu. The Impact of Nutrition Investment on Educational Performance of Rural Adolescents: Evidence From Free Nutrition Lunch Policy.  [In Chinese].
-
-• **Xiyuan Hu**, Dan Lu, Wenwen Wang, Heng Wang, & Chao Guo. In the Name of Growth: The Significance of Growing Environment and Communications Media in the Identification Course of Chinese Male Homosexual Orientation. [In Chinese].
