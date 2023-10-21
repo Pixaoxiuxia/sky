@@ -25,7 +25,7 @@ output:
 
 ### In Chinese
 
-• Yueping Song, & **Xiyuan Hu**. (2023). Nutrition Investment and Academic Performance of Rural Adolescents—Evidence from the nutrition improvement program for rural students receiving compulsory education. *Journal of Xiangtan University(Philosophy and Social Sciences)*, 47(05), 24-31. [doi](http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=XTDX202305004&uniplatform=OVERSEA&v=JTW6jbiO746pdFzuEUakwrapTeFjxgew5yO-SVKCOO2rOrNMY68gVkQTaE8C9nrW).
+• Yueping Song\*, & **Xiyuan Hu**. (2023). Nutrition Investment and Academic Performance of Rural Adolescents—Evidence from the nutrition improvement program for rural students receiving compulsory education. *Journal of Xiangtan University(Philosophy and Social Sciences)*, 47(05), 24-31. [doi](http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=XTDX202305004&uniplatform=OVERSEA&v=JTW6jbiO746pdFzuEUakwrapTeFjxgew5yO-SVKCOO2rOrNMY68gVkQTaE8C9nrW).
 
 • **Xiyuan Hu**, & Chao Guo\*. (2022). The Association Between Military Experience and Health Among Older Adults Aged 60 and Above In China. *Chinese Journal of Disease Control & Prevention*, 26(1), 105. [doi](https://www.webofscience.com/wos/alldb/full-record/CSCD:7143465).
 
