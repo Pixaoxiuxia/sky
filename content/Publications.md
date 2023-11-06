@@ -39,10 +39,6 @@ output:
 
 • Yihao, Zhao, **Xiyuan Hu**, & Chao Guo\*. (2022). Long-Term Effects of Pregnancy Exposure to Natural Disasters on Physical Health: A Review. *Chinese Journal of Public Health*, 38(08), 1082-1087. [doi](https://www.zgggws.com/cn/article/doi/10.11847/zgggws1136302).
 
-• Chaofan Xu, **Xiyuan Hu**, Man Zhao, & Chao Guo\*. (Forthcoming). Will the Believer Be More Traditional: Research on the Relationship Between Religious Belief and Tolerance of Socially Sensitive Behaviors. *Studies in World Religions*.
-
-• Chao Guo\*, **Xiyuan Hu**, Man Zhao, & Jie Liu. (Forthcoming). Potential Contribution of Fecundity Compensation to the Improvement of Fertility. *Population and Development*.
-
 # Book
 
 • Chao Guo, & **Xiyuan Hu**. (2022). Econometric Method and Population Health Research. *Beijing: China Economic Publishing House*. [In Chinese].
