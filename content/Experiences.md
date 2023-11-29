@@ -21,11 +21,6 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 ## Research Experiences
 
-### Project
-• Sep 2023 - Sep 2024
-
-• PA for Prof. Mariétou Ouayogodé
-
 ### Project supported by National Natural Science Foundation of China (2022-2024)
 • Jan 2022 - Jun 2023
 
