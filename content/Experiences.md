@@ -22,12 +22,12 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 ## Research Experiences
 
 ### Project supported by National Natural Science Foundation of China (2022-2024)
-• Jan 2022 - Present
+• Jan 2022 - Jun 2023
 
 • RA in *Utility Evaluation and Improvement Path of Intelligent Technology in Promoting Aging Health*. Grant no.71373012
 
 ### Project supported by Tang Chung-ying Foundation (2022-2024)
-• Sep 2021 - Present
+• Sep 2021 - Jun 2023
 
 • RA in *School Bullying Based on Gender Label and Sexual Orientation*. Grant no.050459
 
