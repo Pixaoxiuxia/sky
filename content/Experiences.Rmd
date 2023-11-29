@@ -10,7 +10,7 @@ output:
 
 ## Education
 
-Sep 2023 - Present, Ph.D. student in Population Health, Department of Population Health Sciences, [University of Wisconsin-Madison (UW-Madison)](https://www.wisc.edu/)
+Sep 2023 - Present, Ph.D. student in Population Health, Department of Population Health Sciences, School of Medicine and Public Health, [University of Wisconsin-Madison (UW-Madison)](https://www.wisc.edu/)
 
 Sep 2020 - Jul 2023, Master in Gerontology, Institute of Population Research, [Peking University (PKU)](https://english.pku.edu.cn/)
 
@@ -21,27 +21,31 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 ## Research Experiences
 
+### Project
+• Sep 2023 - Sep 2024
+
+• PA for Prof. Mariétou Ouayogodé
+
 ### Project supported by National Natural Science Foundation of China (2022-2024)
 • Jan 2022 - Jun 2023
 
-• RA in *Utility Evaluation and Improvement Path of Intelligent Technology in Promoting Aging Health*. Grant no.71373012
+• RA for Prof. Chao Guo in *Utility Evaluation and Improvement Path of Intelligent Technology in Promoting Aging Health*. 
 
 ### Project supported by Tang Chung-ying Foundation (2022-2024)
 • Sep 2021 - Jun 2023
 
-• RA in *School Bullying Based on Gender Label and Sexual Orientation*. Grant no.050459
-
+• RA for Prof. Chao Guo in *School Bullying Based on Gender Label and Sexual Orientation*. 
 ### Project supported by Beijing Municipal Bureau Statistics (2021-2022)
 
 • Nov 2021 - Mar 2022
 
-• RA in *Study on the Development of Women and Children in Beijing*. Grant no.8300400418
+• RA for Prof. Chao Guo in *Study on the Development of Women and Children in Beijing*.
 
 ### Project supported by National Social Science Foundation of China (2018-2021)
 
 • Sep 2020 - Sep 2021
 
-• RA in *Long-term Effects of Early Life Events on Disability in a Whole-population, Life-cycle Perspective*. Grant no.18CRK005
+• RA for Prof. Chao Guo in *Long-term Effects of Early Life Events on Disability in a Whole-population, Life-cycle Perspective*. 
 
 
 ## Grants
