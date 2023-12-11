@@ -12,7 +12,7 @@ output:
 <img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202302192256658.jpg" alt="drawing" width="20%" />
 </div>
 
-Hello everyone, welcome to my website! I am currently a Ph.D student in Department of Population Health Sciences at University of Wisconsin-Madison.
+Hello everyone, welcome to my website! I am currently a Ph.D. student in the Department of Population Health Sciences at the School of Medicine and Public Health, University of Wisconsin-Madison.
 
 ## Research interests
 
@@ -22,7 +22,7 @@ Hello everyone, welcome to my website! I am currently a Ph.D student in Departme
 
 *Life Course / Gerontology*
 
-*Sex, Gender, and Sexuality*
+*Health and Gender*
 
 ## Links
 [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=ALw8qQoAAAAJ) | [ORCID ID](https://orcid.org/my-orcid?orcid=0000-0003-0074-6083)
