@@ -47,11 +47,11 @@ output:
 
 (#: presenter)
 
-• **Xiyuan Hu**, Heng Wang\#, & Chao Guo. (Apr 2023). Sex and Gender Disparities in Perception, Attitude and Social Intimacy among Sinophone Youth towards Transgender and Gender Nonconforming Individuals: Based on an Internet Survey. *Annual Meeting of the Population Association of America*, New Orleans, Louisiana. Accepted to the Oral Session. [Poster](/Publications/Poster-PAA2023.png). 
+• **Xiyuan Hu**, Heng Wang\#, & Chao Guo. (Apr 2023). Sex and Gender Disparities in Perception, Attitude and Social Intimacy among Sinophone Youth towards Transgender and Gender Nonconforming Individuals: Based on an Internet Survey. *Annual Meeting of the Population Association of America*, New Orleans, Louisiana. Accepted to the Oral Session.
 
 • Chao Guo\#, **Xiyuan Hu**, Dianqi Yuan, Yuyu Zeng, & Peisen Yang. (Apr 2023). The Decline of Public Confidence in the World Health Organization During COVID-19. *Annual Meeting of the Population Association of America*, New Orleans, Louisiana.
 
-• **Xiyuan Hu**\#, & Chao Guo. (Apr 2022). Analysis on Predisposing, Enabling, Need and Health Behavioral Factors of Physical Examination among Chinese Middle Aged and Older Adults. *Annual Meeting of the Population Association of America*, Atlanta, Georgia. [Poster](/Publications/Poster-PAA.png).
+• **Xiyuan Hu**\#, & Chao Guo. (Apr 2022). Analysis on Predisposing, Enabling, Need and Health Behavioral Factors of Physical Examination among Chinese Middle Aged and Older Adults. *Annual Meeting of the Population Association of America*, Atlanta, Georgia.
 
-• **Xiyuan Hu**\#, & Chao Guo. (Dec 2021). The Journey of Awareness: The Identification Course of Chinese Male Homosexual Orientation. *International Population Conference*, Hyderabad, India. [Poster](/Publications/Poster-IPC.png).
+• **Xiyuan Hu**\#, & Chao Guo. (Dec 2021). The Journey of Awareness: The Identification Course of Chinese Male Homosexual Orientation. *International Population Conference*, Hyderabad, India.
 

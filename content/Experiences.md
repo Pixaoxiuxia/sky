@@ -42,21 +42,6 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 • RA for Prof. Chao Guo in *Long-term Effects of Early Life Events on Disability in a Whole-population, Life-cycle Perspective*. 
 
-
-## Grants
-
-### The 30th Challenge Cup of PKU - Interdisciplinary Award Competition
-
-• Nov 2021 - Jun 2022
-
-• Participant in *Being and Seeing: A Study of Social Attitudes Toward Transgender*. Second Prize. (about $350)
-
-### The 29th Challenge Cup of PKU - Youth Science Award Competition
-
-• Nov 2020 - Jun 2021
-
-• Leader in *Faith in the Twilight Years: An Exploration of the Religious Course of Chinese Older Adults*. Second Prize. (about $350)
-
 ## Teaching Assistant
 
 • 2022 *Quantitative Reasoning*, Guanghua School of Management, PKU
@@ -87,29 +72,6 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 • 2018 Outstanding Student Award, RUC
 
-## Courses
-
-• **Epidemiology**: Social Medicine, Epidemiology of Population and Health, Social Research on Population and Reproductive Health
-
-• **Demography**: Introduction to Demography, Demographic Statistics, Population Sociology, Population: Issues and Research
-
-• **Sociology**: Introduction to Sociology, Social Science Research: Theory & Practice 
-
-• **Economics**: Principles of Economics, Intermediate Microeconomics, Intermediate Macroeconomics, Econometrics, Economics of Money and Finance, Topics in Health Economics
-
-• **Life Course and Gerontology**: Social Gerontology, Social Security and Welfare for Elderly
-
-• **Sex, Gender, and Sexuality**: Feminism and Social Work
-
-• **Mathematics**: Calculus, Probability and Statistics, Linear Algebra
-
-• **Quantitative Methods**: Statistics, Survival Analysis, Applied Regression Analysis, Mixed Models and Application, Biostatistics, Data Analysis and Software Application (Stata)
-
-• **Qualitative Methods**: Qualitative Analysis Methods
-
-• **Programming**: Python Computer Programming
-	
-
 
 ## Social Activities
 
@@ -136,11 +98,6 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 • 2018 *Volunteer teaching* in Chengkou County, Chongqing, China
 
-
-## Reviewer
-
-
-• Reviewer: [Frontiers in public health](https://www.frontiersin.org/articles/10.3389/fpubh.2022.965017/full?&utm_source=Email_to_rerev_&utm_medium=Email&utm_content=T1_11.5e4_reviewer&utm_campaign=Email_publication&journalName=Frontiers_in_Public_Health&id=965017)
 
 ## Memberships
 
