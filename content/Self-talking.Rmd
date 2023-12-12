@@ -10,7 +10,7 @@ output:
 
 ## Book List
 
-• 刘绍华 / Shaohua Liu [Taiwan]: *Passage to Manhood: Youth Migration,Heroin,and AIDS in Southwest China* 
+• Hallie Rubenhold [UK]: *The Five: The Untold Lives of the Women Killed by Jack the Ripper* 
 
 • George Orwell [UK]: *1984*
 

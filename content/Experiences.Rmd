@@ -14,8 +14,6 @@ Sep 2023 - Present, Ph.D. student in Population Health, Department of Population
 
 Sep 2020 - Jul 2023, Master in Gerontology, Institute of Population Research, [Peking University (PKU)](https://english.pku.edu.cn/)
 
-Feb 2019 - Jun 2019, Exchange in Sociology, Department of Sociology, [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/index.html) 
-
 Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociology & Demography, [Renmin University of China (RUC)](https://www.ruc.edu.cn/en)
 
 

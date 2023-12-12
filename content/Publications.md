@@ -25,7 +25,7 @@ output:
 
 ### In Chinese
 
-• Yueping Song\*, & **Xiyuan Hu**. (2023). Nutrition Investment and Academic Performance of Rural Adolescents—Evidence from the nutrition improvement program for rural students receiving compulsory education. *Journal of Xiangtan University(Philosophy and Social Sciences)*, 47(05), 24-31. [doi](http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=XTDX202305004&uniplatform=OVERSEA&v=JTW6jbiO746pdFzuEUakwrapTeFjxgew5yO-SVKCOO2rOrNMY68gVkQTaE8C9nrW).
+• Yueping Song\*, & **Xiyuan Hu**. (2023). Nutrition Investment and Academic Performance of Rural Adolescents—Evidence from the nutrition improvement program for rural students receiving compulsory education. *Journal of Xiangtan University ( Philosophy and Social Sciences)*, 47(05), 24-31. [doi](http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=XTDX202305004&uniplatform=OVERSEA&v=JTW6jbiO746pdFzuEUakwrapTeFjxgew5yO-SVKCOO2rOrNMY68gVkQTaE8C9nrW).
 
 • **Xiyuan Hu**, & Chao Guo\*. (2022). The Association Between Military Experience and Health Among Older Adults Aged 60 and Above In China. *Chinese Journal of Disease Control & Prevention*, 26(1), 105. [doi](https://www.webofscience.com/wos/alldb/full-record/CSCD:7143465).
 
@@ -47,11 +47,11 @@ output:
 
 (#: presenter)
 
-• **Xiyuan Hu**, Heng Wang\#, & Chao Guo. (Apr 2023). Sex and Gender Disparities in Perception, Attitude and Social Intimacy among Sinophone Youth towards Transgender and Gender Nonconforming Individuals: Based on an Internet Survey. *Annual Meeting of the Population Association of America*, New Orleans, Louisiana. Accepted to the Oral Session.
+• **Xiyuan Hu**, Heng Wang\#, & Chao Guo. (Apr 2023). Sex and Gender Disparities in Perception, Attitude and Social Intimacy among Sinophone Youth towards Transgender and Gender Nonconforming Individuals: Based on an Internet Survey. *Annual Meeting of the Population Association of America*, New Orleans, Louisiana. Presented in the Oral Session.
 
-• Chao Guo\#, **Xiyuan Hu**, Dianqi Yuan, Yuyu Zeng, & Peisen Yang. (Apr 2023). The Decline of Public Confidence in the World Health Organization During COVID-19. *Annual Meeting of the Population Association of America*, New Orleans, Louisiana.
+• Chao Guo\#, **Xiyuan Hu**, Dianqi Yuan, Yuyu Zeng, & Peisen Yang. (Apr 2023). The Decline of Public Confidence in the World Health Organization During COVID-19. *Annual Meeting of the Population Association of America*, New Orleans, Louisiana. Presented in the Poster Session.
 
-• **Xiyuan Hu**\#, & Chao Guo. (Apr 2022). Analysis on Predisposing, Enabling, Need and Health Behavioral Factors of Physical Examination among Chinese Middle Aged and Older Adults. *Annual Meeting of the Population Association of America*, Atlanta, Georgia.
+• **Xiyuan Hu**\#, & Chao Guo. (Apr 2022). Analysis on Predisposing, Enabling, Need and Health Behavioral Factors of Physical Examination among Chinese Middle Aged and Older Adults. *Annual Meeting of the Population Association of America*, Atlanta, Georgia. Presented in the Poster Session.
 
-• **Xiyuan Hu**\#, & Chao Guo. (Dec 2021). The Journey of Awareness: The Identification Course of Chinese Male Homosexual Orientation. *International Population Conference*, Hyderabad, India.
+• **Xiyuan Hu**\#, & Chao Guo. (Dec 2021). The Journey of Awareness: The Identification Course of Chinese Male Homosexual Orientation. *International Population Conference*, Hyderabad, India. Presented in the Poster Session.
 
