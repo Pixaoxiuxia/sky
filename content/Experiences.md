@@ -19,26 +19,38 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 ## Research Experiences
 
-### Project supported by National Natural Science Foundation of China (2022-2024)
+### PI: Prof. Mariétou Ouayogodé
+
+* Sep 2023 - Present
+
+* PA in *Accountable Care Organizations and Rural/Urban Healthcare Disparities*.
+
+
+### PI: Prof. Chao Guo
+
 • Jan 2022 - Jun 2023
 
-• RA for Prof. Chao Guo in *Utility Evaluation and Improvement Path of Intelligent Technology in Promoting Aging Health*. 
+• RA in *Utility Evaluation and Improvement Path of Intelligent Technology in Promoting Aging Health*. 
 
-### Project supported by Tang Chung-ying Foundation (2022-2024)
+### PI: Prof. Chao Guo
+
 • Sep 2021 - Jun 2023
 
-• RA for Prof. Chao Guo in *School Bullying Based on Gender Label and Sexual Orientation*. 
-### Project supported by Beijing Municipal Bureau Statistics (2021-2022)
+• RA in *School Bullying Based on Gender Label and Sexual Orientation*. 
+
+### PI: Prof. Chao Guo
 
 • Nov 2021 - Mar 2022
 
-• RA for Prof. Chao Guo in *Study on the Development of Women and Children in Beijing*.
+• RA in *Study on the Development of Women and Children in Beijing*.
 
-### Project supported by National Social Science Foundation of China (2018-2021)
+### PI: Prof. Chao Guo
 
 • Sep 2020 - Sep 2021
 
-• RA for Prof. Chao Guo in *Long-term Effects of Early Life Events on Disability in a Whole-population, Life-cycle Perspective*. 
+• RA in *Long-term Effects of Early Life Events on Disability in a Whole-population, Life-cycle Perspective*. 
+
+
 
 ## Teaching Assistant
 
@@ -80,8 +92,6 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 • 2018-2019 Vice chairman of the **Student Union** of School of Sociology and Population Studies, RUC
 
 • 2017 Editorial assistant in **Journal of Population Studies**
-
-• 2016-2018 Joined the **Community of Think and Action dedicated in caring for workers and farmers**
 
 ### Visiting Experience
 
