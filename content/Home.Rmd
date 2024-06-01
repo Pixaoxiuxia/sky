@@ -25,7 +25,7 @@ Hello everyone, welcome to my website! I am currently a Ph.D. student in the Dep
 *Health and Gender*
 
 ## Links
-[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=ALw8qQoAAAAJ) | [ORCID ID](https://orcid.org/my-orcid?orcid=0000-0003-0074-6083)
+[Google Scholar](https://scholar.google.com/citations?user=ALw8qQoAAAAJ) | [ORCID ID](https://orcid.org/my-orcid?orcid=0000-0003-0074-6083)
 
 ## Visitors
 
