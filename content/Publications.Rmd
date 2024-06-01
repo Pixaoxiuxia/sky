@@ -49,7 +49,7 @@ output:
 
 # Book
 
-• Chao Guo, & **Xiyuan Hu**. (2022). Econometric Method and Population Health Research. *Beijing: China Economic Publishing House*. [In Chinese].
+• Chao Guo, & **Xiyuan Hu**. (2022). Econometric Method and Population Health Research. *Beijing: China Economic Publishing House*. [In Chinese]. [data & code](https://github.com/hxygoodluck/Econometric-Method-and-Population-Health-Research)
 
 # Conference Presentations
 
