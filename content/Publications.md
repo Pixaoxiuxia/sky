@@ -14,6 +14,8 @@ output:
 
 ### In English
 
+• **Xiyuan Hu**, & Chao Guo\*. (2024). Temporal trends and cohort variations of gender-specific major depressive disorders incidence in China: analysis based on the age-period-cohort-interaction model. *General Psychiatry*, 37:e101479. [doi](https://gpsych.bmj.com/content/37/4/e101479).
+
 • **Xiyuan Hu**, Dianqi Yuan, Yuyu Zeng, & Chao Guo\*. (2024). Impact of the First-Wave COVID-19 Pandemic on Medical Expenditure for Older Adults in China: Lessons from a Natural Experiment. *Journal of Aging & Social Policy*, 1-20. [doi](https://doi.org/10.1080/08959420.2024.2348967).
 
 • **Xiyuan Hu**\*, & Heng Wang. (2024). Gender and Sexuality Disparities in Perception, Attitude and Social Intimacy Among Sinophone Youth Toward Transgender and Gender Non-Conforming Individuals: Based on an Internet Survey. *Journal of Homosexuality*, 1-22. [doi](https://www.tandfonline.com/doi/full/10.1080/00918369.2023.2287031). 
