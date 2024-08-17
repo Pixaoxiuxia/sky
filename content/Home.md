@@ -16,13 +16,11 @@ Hello everyone, welcome to my website! I am currently a Ph.D. student in the Dep
 
 ## Research interests
 
-*Health Economics*
+*Health Service Research*
 
-*Demography*
+*Life Course Health*
 
-*Life Course / Gerontology*
-
-*Health and Gender*
+*Gender abd Health*
 
 ## Links
 [Google Scholar](https://scholar.google.com/citations?user=ALw8qQoAAAAJ) | [ORCID ID](https://orcid.org/my-orcid?orcid=0000-0003-0074-6083) | [X(Twitter)](https://x.com/Expergefactor_X)
