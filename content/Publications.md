@@ -18,7 +18,7 @@ output:
 
 • **Xiyuan Hu**, Dianqi Yuan, Yuyu Zeng, & Chao Guo\*. (2024). Impact of the First-Wave COVID-19 Pandemic on Medical Expenditure for Older Adults in China: Lessons from a Natural Experiment. *Journal of Aging & Social Policy*, 1-20. [doi](https://doi.org/10.1080/08959420.2024.2348967).
 
-• **Xiyuan Hu**\*, & Heng Wang. (2024). Gender and Sexuality Disparities in Perception, Attitude and Social Intimacy Among Sinophone Youth Toward Transgender and Gender Non-Conforming Individuals: Based on an Internet Survey. *Journal of Homosexuality*, 71(14), 3254–3275. [doi](https://doi.org/10.1080/00918369.2023.2287031). 
+• **Xiyuan Hu**\*, & Heng Wang. (2024). Gender and Sexuality Disparities in Perception, Attitude and Social Intimacy Among Sinophone Youth Toward Transgender and Gender Non-Conforming Individuals: Based on an Internet Survey. *Journal of Homosexuality*, 71(14), 3254–3275. [doi](https://www.tandfonline.com/doi/full/10.1080/00918369.2023.2287031). 
 
 • Dianqi Yuan, **Xiyuan Hu**, Yuyu Zeng, Huameng Tang, & Chao Guo\*. (2024). The early-stage impacts of shock events on adult sleep: Lessons from the COVID-19 pandemic. *Stress and Health*, e3385. [doi](https://doi.org/10.1002/smi.3385). 
 	
@@ -59,12 +59,11 @@ output:
 
 • Mariétou Ouayogodé, & **Xiyuan Hu**\#. (Oct 2024). The Impact of Accountable Care Organization Participation on Diabetes Quality of Care and Healthcare Disparities: Insights from a Natural Experiment (2009-2018)”. *American Public Health Association Annual Meeting*, Minneapolis, Minnesota. Presented in the Poster Session.
 
-
 • **Xiyuan Hu**\#, & Chao Guo. (Apr 2024). Temporal Variations and Cohort Patterns of Gender-Specific Major Depressive Disorder Incidence in China: Analysis Based on Age-Period-Cohort-Interaction Model. *Annual Meeting of the Population Association of America*, Columbus, Ohio. Presented in the Poster Session.	
 
 • **Xiyuan Hu**, Heng Wang\#, & Chao Guo. (Apr 2023). Sex and Gender Disparities in Perception, Attitude and Social Intimacy among Sinophone Youth towards Transgender and Gender Nonconforming Individuals: Based on an Internet Survey. *Annual Meeting of the Population Association of America*, New Orleans, Louisiana. Presented in the Oral Session.
 
-• **Xiyuan Hu**\#, & Chao Guo. (Apr 2022). Analysis on Predisposing, Enabling, Need and Health Behavioral Factors of Physical Examination among Chinese Middle Aged and Older Adults. *Annual Meeting of the Population Association of America*, Atlanta, Georgia. Virtual. Presented in the Poster Session.
+• **Xiyuan Hu**\#, & Chao Guo. (Apr 2022). Analysis on Predisposing, Enabling, Need and Health Behavioral Factors of Physical Examination among Chinese Middle Aged and Older Adults. *Annual Meeting of the Population Association of America*, Atlanta, Georgia. Presented in the Poster Session.
 
-• **Xiyuan Hu**\#, & Chao Guo. (Dec 2021). The Journey of Awareness: The Identification Course of Chinese Male Homosexual Orientation. *International Population Conference*, Hyderabad, India. Virtual. Presented in the Poster Session.
+• **Xiyuan Hu**\#, & Chao Guo. (Dec 2021). The Journey of Awareness: The Identification Course of Chinese Male Homosexual Orientation. *International Population Conference*, Hyderabad, India. Presented in the Poster Session.
 
