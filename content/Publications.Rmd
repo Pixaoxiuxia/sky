@@ -59,6 +59,8 @@ output:
 
 • Mariétou Ouayogodé, & **Xiyuan Hu**\#. (Oct 2024). The Impact of Accountable Care Organization Participation on Diabetes Quality of Care and Healthcare Disparities: Insights from a Natural Experiment (2009-2018)”. *American Public Health Association Annual Meeting*, Minneapolis, Minnesota. Presented in the Poster Session.
 
+• Heng Wang\#, Wanjing Hu, Zhuhao Yang, **Xiyuan Hu**. (Aug 2024). Spontaneity, Decentralization and Loose Solidarity of Queer Activism in Contemporary China. American Sociological Association Annual Meeting. Montréal, Québec. Roundtable.
+
 • **Xiyuan Hu**\#, & Chao Guo. (Apr 2024). Temporal Variations and Cohort Patterns of Gender-Specific Major Depressive Disorder Incidence in China: Analysis Based on Age-Period-Cohort-Interaction Model. *Annual Meeting of the Population Association of America*, Columbus, Ohio. Presented in the Poster Session.	
 
 • **Xiyuan Hu**, Heng Wang\#, & Chao Guo. (Apr 2023). Sex and Gender Disparities in Perception, Attitude and Social Intimacy among Sinophone Youth towards Transgender and Gender Nonconforming Individuals: Based on an Internet Survey. *Annual Meeting of the Population Association of America*, New Orleans, Louisiana. Presented in the Oral Session.
