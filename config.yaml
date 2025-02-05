@@ -16,8 +16,8 @@ menu:
   main:
     - name: 1 Home
       url: /Home/
-    - name: 2 Publications
-      url: /Publications/
+    - name: 2 Research
+      url: /Research/
     - name: 3 Experiences
       url: /Experiences/
 
