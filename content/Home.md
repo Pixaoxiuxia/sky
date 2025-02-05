@@ -9,14 +9,17 @@ output:
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202302192256658.jpg" alt="drawing" width="20%" />
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/Hu-Xiyuan-headshot.jpg" alt="drawing" width="20%" />
 </div>
 
-Hello everyone, welcome to my website! I am currently a Ph.D. student in the Department of Population Health Sciences at the School of Medicine and Public Health, University of Wisconsin-Madison.
+
+Hello everyone, welcome to my website! I am currently a Ph.D. student in the Department of Population Health Sciences at the School of Medicine and Public Health, University of Wisconsin-Madison. 
 
 ## Research interests
 
 *Health Service Research*
+
+*Population Health*
 
 *Life Course Health*
 

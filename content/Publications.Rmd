@@ -14,6 +14,8 @@ output:
 
 ### In English
 
+• **Xiyuan Hu**, & Mariétou Ouayogodé. (2024). Association and Variation Between the COVID-19 Pandemic and Health Care Quality in the Medicare Shared Savings Program: Insights From a Seven-Year Natural Experiment. *Journal of Public Health Management and Practice*, 10–1097. [doi](https://doi.org/10.1097/phh.0000000000002102).
+
 • **Xiyuan Hu**, & Chao Guo\*. (2024). Temporal trends and cohort variations of gender-specific major depressive disorders incidence in China: analysis based on the age-period-cohort-interaction model. *General Psychiatry*, 37:e101479. [doi](https://gpsych.bmj.com/content/37/4/e101479).
 
 • **Xiyuan Hu**, Dianqi Yuan, Yuyu Zeng, & Chao Guo\*. (2024). Impact of the First-Wave COVID-19 Pandemic on Medical Expenditure for Older Adults in China: Lessons from a Natural Experiment. *Journal of Aging & Social Policy*, 1-20. [doi](https://doi.org/10.1080/08959420.2024.2348967).
@@ -57,7 +59,11 @@ output:
 
 (#: presenter)
 
-• Mariétou Ouayogodé, & **Xiyuan Hu**\#. (Oct 2024). The Impact of Accountable Care Organization Participation on Diabetes Quality of Care and Healthcare Disparities: Insights from a Natural Experiment (2009-2018)”. *American Public Health Association Annual Meeting*, Minneapolis, Minnesota. Presented in the Poster Session.
+• **Xiyuan Hu**\#, & Mariétou Ouayogodé. (Jul 2025). Association Between the COVID-19 Pandemic and Healthcare Quality in the Medicare Shared Savings Program: Insights from Medicare’s Largest Value-Based Payment Model (2016-2022). *International Population Conference*, Brisbane, Australia. Presented in the Oral Session.
+
+• **Xiyuan Hu**\#, Xiaohan Zhu, & Chao Guo. (Apr 2025). The Life Course Trajectories of Sexuality and Gender- Based School: Bullying in China. *Population Association of America Annual Meeting*, Washington DC.
+
+• Mariétou Ouayogodé, & **Xiyuan Hu**\#. (Oct 2024). The Impact of Accountable Care Organization Participation on Diabetes Quality of Care and Healthcare Disparities: Insights from a Natural Experiment (2009-2018). *American Public Health Association Annual Meeting*, Minneapolis, Minnesota. Presented in the Poster Session.
 
 • Heng Wang\#, Wanjing Hu, Zhuhao Yang, **Xiyuan Hu**. (Aug 2024). Spontaneity, Decentralization and Loose Solidarity of Queer Activism in Contemporary China. American Sociological Association Annual Meeting. Montréal, Québec. Roundtable.
 
