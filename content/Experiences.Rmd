@@ -89,8 +89,6 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 •  [American Public Health Association](https://www.apha.org/)
 
-•  [American Public Health Association](https://www.apha.org/)
-
 •  [Population Association of America](https://www.populationassociation.org/home)
 
 •  [International Union for the Scientific Study of Population](https://www.iussp.org/)
