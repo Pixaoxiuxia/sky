@@ -20,8 +20,7 @@ menu:
       url: /Publications/
     - name: 3 Experiences
       url: /Experiences/
-#    - name: 4 Self-talking
- #     url: /Self-talking/
+
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
