@@ -16,11 +16,11 @@ permalinks:
 menu:
   main:
     - name: 1 Home
-      url: /Home/
+      url: Home/
     - name: 2 Research
-      url: /Research/
+      url: Research/
     - name: 3 Experiences
-      url: /Experiences/
+      url: Experiences/
 
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
