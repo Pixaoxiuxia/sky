@@ -70,7 +70,7 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 • 2025 Rankin-Skatrud Conference Expense Stipends, UW-Madison
 
-• 2024  CDHA Travel Awards, UW-Madison
+• 2024 CDHA Travel Awards, UW-Madison
   
 • 2023 Energy Analysis and Policy Student Scholarship, EAP program of UW-Madison
 
