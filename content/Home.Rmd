@@ -17,13 +17,9 @@ Hello everyone, welcome to my website! I am currently a Ph.D. student in the Dep
 
 ## Research interests
 
-*Health Service Research*
+*Public Health Genomics*
 
 *Population Health*
-
-*Life Course Health*
-
-*Gender and Health*
 
 ## Links
 [Google Scholar](https://scholar.google.com/citations?user=ALw8qQoAAAAJ) | [ORCID ID](https://orcid.org/my-orcid?orcid=0000-0003-0074-6083) | [X(Twitter)](https://x.com/Expergefactor_X)

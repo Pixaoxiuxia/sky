@@ -14,8 +14,7 @@ output:
 
 ### In English
 
-• Mariétou Ouayogodé\* & **Xiyuan Hu**. (2026). Rural-Urban Disparities in Diabetes Quality of Care with Accountable
-Care Organization Participation. *The Journal of Rural Health*, 42:e70121. [doi](https://doi.org/10.1111/jrh.70121).
+• Mariétou Ouayogodé\* & **Xiyuan Hu**. (2026). Rural-Urban Disparities in Diabetes Quality of Care with Accountable Care Organization Participation. *The Journal of Rural Health*, 42:e70121. [doi](https://doi.org/10.1111/jrh.70121).
 
 • **Xiyuan Hu** & Mariétou Ouayogodé\*. (2024). Association and Variation Between the COVID-19 Pandemic and Health Care Quality in the Medicare Shared Savings Program: Insights From a Seven-Year Natural Experiment. *Journal of Public Health Management and Practice*, 10–1097. [doi](https://doi.org/10.1097/phh.0000000000002102).
 
@@ -64,7 +63,7 @@ Care Organization Participation. *The Journal of Rural Health*, 42:e70121. [doi]
 
 • **Xiyuan Hu**\#, & Mariétou Ouayogodé. (Jul 2025). Association Between the COVID-19 Pandemic and Healthcare Quality in the Medicare Shared Savings Program: Insights from Medicare’s Largest Value-Based Payment Model (2016-2022). *International Population Conference*, Brisbane, Australia. Presented in the Oral Session.
 
-• **Xiyuan Hu**\#, Xiaohan Zhu, & Chao Guo. (Apr 2025). The Life Course Trajectories of Sexuality and Gender- Based School: Bullying in China. *Population Association of America Annual Meeting*, Washington DC.
+• **Xiyuan Hu**\#, Xiaohan Zhu, & Chao Guo. (Apr 2025). The Life Course Trajectories of Sexuality and Gender- Based School: Bullying in China. *Population Association of America Annual Meeting*, Washington DC. Presented in the Oral Session.
 
 • Mariétou Ouayogodé, & **Xiyuan Hu**\#. (Oct 2024). The Impact of Accountable Care Organization Participation on Diabetes Quality of Care and Healthcare Disparities: Insights from a Natural Experiment (2009-2018). *American Public Health Association Annual Meeting*, Minneapolis, Minnesota. Presented in the Poster Session.
 
