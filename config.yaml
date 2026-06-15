@@ -16,11 +16,11 @@ permalinks:
 menu:
   main:
     - name: 1 Home
-      url: /sky/Home/
+      url: /Home/
     - name: 2 Research
-      url: /sky/Research/
+      url: /Research/
     - name: 3 Experiences
-      url: /sky/Experiences/
+      url: /Experiences/
 
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
