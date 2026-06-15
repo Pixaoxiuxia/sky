@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:4321/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2024/06/10/news-regarding-the-health-effects-of-the-olympics/</loc>
+    <loc>/2024/06/10/news-regarding-the-health-effects-of-the-olympics/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/research/</loc>
+    <loc>/categories/research/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/research/</loc>
+    <loc>/tags/research/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/</loc>
+    <loc>/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2022/11/16/self-introduction/</loc>
+    <loc>/2022/11/16/self-introduction/</loc>
     <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/experiences/</loc>
+    <loc>/experiences/</loc>
   </url><url>
-    <loc>//localhost:4321/home/</loc>
+    <loc>/home/</loc>
   </url><url>
-    <loc>//localhost:4321/research/</loc>
+    <loc>/research/</loc>
   </url>
 </urlset>

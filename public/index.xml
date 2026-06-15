@@ -2,46 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiyuan Hu</title>
-    <link>//localhost:4321/</link>
+    <link>/</link>
     <description>Recent content on Xiyuan Hu</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News Regarding the Health Effects of the Olympics</title>
-      <link>//localhost:4321/2024/06/10/news-regarding-the-health-effects-of-the-olympics/</link>
+      <link>/2024/06/10/news-regarding-the-health-effects-of-the-olympics/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2024/06/10/news-regarding-the-health-effects-of-the-olympics/</guid>
-      <description>Hello everyone, here are some news about the health effects of the 2008 Beijing Olympic Games.&#xA;N-IUSSP (International Union for the Scientific Study of Population) Olympic Games help children grow up healthy&#xA;Blog of British Journal of Sports Medicine What is the association between Olympic Games and children&amp;rsquo;s growth? Looking at evidence from China&#xA;News Website of Peking University Association between Olympic Games and children&amp;rsquo;s growth</description>
+      
+      <guid>/2024/06/10/news-regarding-the-health-effects-of-the-olympics/</guid>
+      <description>Hello everyone, here are some news about the health effects of the 2008 Beijing Olympic Games.
+N-IUSSP (International Union for the Scientific Study of Population) Olympic Games help children grow up healthy
+Blog of British Journal of Sports Medicine What is the association between Olympic Games and children&amp;rsquo;s growth? Looking at evidence from China
+News Website of Peking University Association between Olympic Games and children&amp;rsquo;s growth</description>
     </item>
+    
     <item>
       <title>Self-introduction</title>
-      <link>//localhost:4321/2022/11/16/self-introduction/</link>
+      <link>/2022/11/16/self-introduction/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/2022/11/16/self-introduction/</guid>
-      <description>Hello everyone, welcome to my website! I am Xiyuan Hu. My research interests focus on health and gender.&#xA;Interests Travelling&#xA;Reading&#xA;Watching Movie/Drama</description>
+      
+      <guid>/2022/11/16/self-introduction/</guid>
+      <description>Hello everyone, welcome to my website! I am Xiyuan Hu. My research interests focus on health and gender.
+Interests Travelling
+Reading
+Watching Movie/Drama</description>
     </item>
+    
     <item>
-      <title></title>
-      <link>//localhost:4321/experiences/</link>
+      <title>Experiences</title>
+      <link>/experiences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/experiences/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xD;Experiences&#xD;Experiences&#xD;Education&#xD;Sep 2023 - Present, Ph.D. student in Population Health, Department of&#xD;Population Health Sciences, School of Medicine and Public Health, University of Wisconsin-Madison&#xD;(UW-Madison)&#xA;Sep 2020 - Jul 2023, Master in Gerontology, Institute of Population&#xD;Research, Peking University&#xD;(PKU)&#xA;Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration,&#xD;School of Sociology &amp;amp; Demography, Renmin University of China&#xD;(RUC)&#xA;Research Experiences&#xD;PI: Dr. Silvia&#xD;Barcellos&#xD;2026 - Present</description>
+      
+      <guid>/experiences/</guid>
+      <description>Education Sep 2023 - Present, Ph.D. student in Population Health, Department of Population Health Sciences, School of Medicine and Public Health, University of Wisconsin-Madison (UW-Madison)
+Sep 2020 - Jul 2023, Master in Gerontology, Institute of Population Research, Peking University (PKU)
+Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociology &amp;amp; Demography, Renmin University of China (RUC)
+Research Experiences PI: Dr. Silvia Barcellos 2026 - Present
+RA at University of Wisconsin-Madison</description>
     </item>
+    
     <item>
-      <title></title>
-      <link>//localhost:4321/home/</link>
+      <title>Home</title>
+      <link>/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/home/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xD;Home&#xD;Home&#xD;Hello everyone, welcome to my website! I am currently a Ph.D. student&#xD;in the Department of Population Health Sciences at the School of&#xD;Medicine and Public Health, University of Wisconsin-Madison.&#xA;Research interests&#xD;Public Health Genomics&#xA;Population Health&#xA;Links&#xD;Google&#xD;Scholar | ORCID&#xD;ID</description>
+      
+      <guid>/home/</guid>
+      <description>Hello everyone, welcome to my website! I am currently a Ph.D. student in the Department of Population Health Sciences at the School of Medicine and Public Health, University of Wisconsin-Madison.
+Research interests Public Health Genomics
+Population Health
+Links Google Scholar | ORCID ID</description>
     </item>
+    
     <item>
-      <title></title>
-      <link>//localhost:4321/research/</link>
+      <title>Research</title>
+      <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/research/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xD;Research&#xD;Research&#xD;Research Papers in Peer-Reviewed Publications&#xD;(*: correspondent author, +: co-first author)&#xA;Marietou Ouayogode* &amp;amp; Xiyuan Hu. (2026).&#xD;Rural-Urban Disparities in Diabetes Quality of Care with Accountable&#xD;Care Organization Participation. The Journal of Rural Health,&#xD;42:e70121. doi.&#xA;Xiyuan Hu &amp;amp; Marietou Ouayogode*. (2024).&#xD;Association and Variation Between the COVID-19 Pandemic and Health Care&#xD;Quality in the Medicare Shared Savings Program: Insights From a&#xD;Seven-Year Natural Experiment. Journal of Public Health Management&#xD;and Practice, 10-1097.</description>
+      
+      <guid>/research/</guid>
+      <description>Research Papers in Peer-Reviewed Publications (*: correspondent author, +: co-first author)
+Marietou Ouayogode* &amp;amp; Xiyuan Hu. (2026). Rural-Urban Disparities in Diabetes Quality of Care with Accountable Care Organization Participation. The Journal of Rural Health, 42:e70121. doi.
+Xiyuan Hu &amp;amp; Marietou Ouayogode*. (2024). Association and Variation Between the COVID-19 Pandemic and Health Care Quality in the Medicare Shared Savings Program: Insights From a Seven-Year Natural Experiment. Journal of Public Health Management and Practice, 10-1097.</description>
     </item>
+    
   </channel>
 </rss>
