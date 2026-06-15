@@ -24,7 +24,3 @@ Hello everyone, welcome to my website! I am currently a Ph.D. student in the Dep
 ## Links
 [Google Scholar](https://scholar.google.com/citations?user=ALw8qQoAAAAJ) | [ORCID ID](https://orcid.org/my-orcid?orcid=0000-0003-0074-6083) 
 
-## Visitors
-
-<div align="center">
-<a href="http://www.clustrmaps.com/map/Xiyuanhu.com" title="Visit tracker for Xiyuanhu.com"><img src="//www.clustrmaps.com/map_v2.png?d=JeS4VgmGgLKDlUfIVNRKHjKDibLLvggRaAMWx15_ZLw" /></a>
