@@ -30,8 +30,6 @@
   </url><url>
     <loc>//localhost:4321/home/</loc>
   </url><url>
-    <loc>//localhost:4321/publications/</loc>
-  </url><url>
-    <loc>//localhost:4321/self-talking/</loc>
+    <loc>//localhost:4321/research/</loc>
   </url>
 </urlset>

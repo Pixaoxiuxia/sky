@@ -19,50 +19,55 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 ## Research Experiences
 
-### PI: Dr. Mariétou Ouayogodé
 
-* Sep 2023 - Present
+### PI: [Dr. Silvia Barcellos](https://pophealth.wisc.edu/staff/barcellos-silvia/)
 
-* PA in *Accountable Care Organizations and Rural/Urban Healthcare Disparities*.
+* 2026 - Present
 
+* RA at University of Wisconsin-Madison
 
-### PI: Dr. Chao Guo
+### PI: [Dr. Michal Engelman](https://cdha.wisc.edu/staff/michal-engelman/)
 
-• Jan 2022 - Jun 2023
+* 2026
 
-• RA in *Utility Evaluation and Improvement Path of Intelligent Technology in Promoting Aging Health*. 
+* RA at University of Wisconsin-Madison
 
-### PI: Dr. Chao Guo
+### PI: [Dr. Mariétou Ouayogodé](https://pophealth.wisc.edu/staff/ouayogode-marietou/)
 
-• Sep 2021 - Jun 2023
+* 2023 - 2026
 
-• RA in *School Bullying Based on Gender Label and Sexual Orientation*. 
-
-### PI: Dr. Chao Guo
-
-• Nov 2021 - Mar 2022
-
-• RA in *Study on the Development of Women and Children in Beijing*.
-
-### PI: Dr. Chao Guo
-
-• Sep 2020 - Sep 2021
-
-• RA in *Long-term Effects of Early Life Events on Disability in a Whole-population, Life-cycle Perspective*. 
+* RA at University of Wisconsin-Madison
 
 
+### PI: [Dr. Chao Guo](http://scholar.pku.edu.cn/guochao/home)
+
+• 2020 - 2023
+
+• RA at Peking University
+
+### PI: [Dr. Yueping Song](http://sph.ruc.edu.cn/jszy/syp/0a83334cf8634fe3a792c019184cd5b7.htm)
+
+• 2018 - 2020
+
+• RA at Renmin University of China
 
 ## Teaching Assistant
 
-• 2022 *Quantitative Reasoning*, Guanghua School of Management, PKU
+* 2025 *Introduction to Epidemiology*, Department of Population Health Sciences, UW-Madison, Graduate
+
+• 2022 *Quantitative Reasoning*, Guanghua School of Management, PKU, Undergraduate
 
 • 2022 *Fundamentals of Applied Mathematics*, Workshops on Social Science Research Methods, PKU
 
 • 2021 *Application of Multivariate Statistics*, Workshops on Social Science Research Methods, PKU
 
-• 2020 *Application Practice of Data Analysis*, School of Sociology and Population Studies, RUC
+• 2020 *Application Practice of Data Analysis*, School of Sociology and Population Studies, RUC, Undergraduate
 
 ##	Awards & Honors
+
+• 2025  International Population Conference Travel Support, UW-Madison
+
+• 2025  Rankin-Skatrud Conference Expense Stipends, UW-Madison
 
 • 2024  CDHA Travel Awards, UW-Madison
   
@@ -85,7 +90,6 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 ## Memberships
 
-•  [American Sociological Association](https://www.asanet.org/)
 
 •  [American Public Health Association](https://www.apha.org/)
 

@@ -14,13 +14,17 @@ output:
 
 ### In English
 
-• **Xiyuan Hu**, & Mariétou Ouayogodé. (2024). Association and Variation Between the COVID-19 Pandemic and Health Care Quality in the Medicare Shared Savings Program: Insights From a Seven-Year Natural Experiment. *Journal of Public Health Management and Practice*, 10–1097. [doi](https://doi.org/10.1097/phh.0000000000002102).
+• Mariétou Ouayogodé\* & **Xiyuan Hu**. (2026). Rural-Urban Disparities in Diabetes Quality of Care with Accountable
+Care Organization Participation. *The Journal of Rural Health*, 42:e70121. [doi](https://doi.org/10.
+1111/jrh.70121).
 
-• **Xiyuan Hu**, & Chao Guo\*. (2024). Temporal trends and cohort variations of gender-specific major depressive disorders incidence in China: analysis based on the age-period-cohort-interaction model. *General Psychiatry*, 37:e101479. [doi](https://gpsych.bmj.com/content/37/4/e101479).
+• **Xiyuan Hu** & Mariétou Ouayogodé\*. (2024). Association and Variation Between the COVID-19 Pandemic and Health Care Quality in the Medicare Shared Savings Program: Insights From a Seven-Year Natural Experiment. *Journal of Public Health Management and Practice*, 10–1097. [doi](https://doi.org/10.1097/phh.0000000000002102).
+
+• **Xiyuan Hu** & Chao Guo\*. (2024). Temporal trends and cohort variations of gender-specific major depressive disorders incidence in China: analysis based on the age-period-cohort-interaction model. *General Psychiatry*, 37:e101479. [doi](https://gpsych.bmj.com/content/37/4/e101479).
 
 • **Xiyuan Hu**, Dianqi Yuan, Yuyu Zeng, & Chao Guo\*. (2024). Impact of the First-Wave COVID-19 Pandemic on Medical Expenditure for Older Adults in China: Lessons from a Natural Experiment. *Journal of Aging & Social Policy*, 1-20. [doi](https://doi.org/10.1080/08959420.2024.2348967).
 
-• **Xiyuan Hu**\*, & Heng Wang. (2024). Gender and Sexuality Disparities in Perception, Attitude and Social Intimacy Among Sinophone Youth Toward Transgender and Gender Non-Conforming Individuals: Based on an Internet Survey. *Journal of Homosexuality*, 71(14), 3254–3275. [doi](https://www.tandfonline.com/doi/full/10.1080/00918369.2023.2287031). 
+• **Xiyuan Hu**\* & Heng Wang. (2024). Gender and Sexuality Disparities in Perception, Attitude and Social Intimacy Among Sinophone Youth Toward Transgender and Gender Non-Conforming Individuals: Based on an Internet Survey. *Journal of Homosexuality*, 71(14), 3254–3275. [doi](https://www.tandfonline.com/doi/full/10.1080/00918369.2023.2287031). 
 
 • Dianqi Yuan, **Xiyuan Hu**, Yuyu Zeng, Huameng Tang, & Chao Guo\*. (2024). The early-stage impacts of shock events on adult sleep: Lessons from the COVID-19 pandemic. *Stress and Health*, e3385. [doi](https://doi.org/10.1002/smi.3385). 
 	
