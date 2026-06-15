@@ -2,7 +2,7 @@ baseurl: /
 languageCode: en-us
 title: Xiyuan Hu
 theme: hugo-ivy
-publishDir: public 
+publishDir: docs 
 googleAnalytics: ''
 disqusShortname: ''
 ignoreFiles:
