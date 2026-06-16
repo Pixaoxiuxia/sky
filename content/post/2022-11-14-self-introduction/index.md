@@ -9,10 +9,10 @@ tags: []
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/picgo/202302192256658.jpg" alt="drawing" width="20%" />
+<img src="https://raw.githubusercontent.com/Pixaoxiuxia/blog-figs/main/Hu-Xiyuan-headshot.jpg" alt="drawing" width="20%" />
 </div>
 
-Hello everyone, welcome to my website! I am Xiyuan Hu. My research interests focus on health and gender. 
+Hello everyone, welcome to my website! I am Xiyuan Hu.
 
 
 ## Interests
