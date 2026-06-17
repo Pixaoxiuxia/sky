@@ -1,6 +1,6 @@
-# Edit content/config
+# This project is about Xiyuan Hu's personal website, which is based on Hugo theme written by [Yihui Xie](https://yihui.org/).
 
-## Steps of revision:
+## Edit content/config: Steps of revision:
 1. Revise .rmd file, Save, Knit
 2. Run command blogdown::build_site() in console to rebuld site
 3. Commit push in github
@@ -9,9 +9,9 @@
 
 ## Settings-page: check DNS status
 
-## rebuild site
+## Rebuild site
 hugo
-## commit generated docs
+## Commit generated docs
 git add .
 git commit -m "Update site"
 git push
