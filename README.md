@@ -9,7 +9,7 @@
 
 ## Github-Settings-page: check DNS status
 
-## Commit generated docs
-git add .
-git commit -m "Update site"
-git push
+## Commit generated docs in R:
+1. git add .
+2. git commit -m "Update site"
+3. git push
