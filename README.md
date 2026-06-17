@@ -1,4 +1,4 @@
-# This project is about Xiyuan Hu's personal website, which is based on Hugo theme written by [Yihui Xie](https://yihui.org/).
+# This project contains codes for Xiyuan Hu's personal website, which is based on the Hugo theme written by [Yihui Xie](https://yihui.org/).
 
 ## Edit content/config: Steps of revision:
 1. Revise .rmd file, Save, Knit
@@ -7,10 +7,8 @@
 
 ## Don't change the directory of local github files!!!
 
-## Settings-page: check DNS status
+## Github-Settings-page: check DNS status
 
-## Rebuild site
-hugo
 ## Commit generated docs
 git add .
 git commit -m "Update site"
