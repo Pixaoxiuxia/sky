@@ -56,13 +56,13 @@ Sep 2016 - Jun 2020, Bachelor in Public Affairs Administration, School of Sociol
 
 * 2025 *Introduction to Epidemiology*, Department of Population Health Sciences, UW-Madison, Graduate
 
-* 2022 *Quantitative Reasoning*, Guanghua School of Management, PKU
+* 2022 *Quantitative Reasoning*, Guanghua School of Management, PKU, Undergraduate
 
 * 2022 *Fundamentals of Applied Mathematics*, Workshops on Social Science Research Methods, PKU
 
 * 2021 *Application of Multivariate Statistics*, Workshops on Social Science Research Methods, PKU
 
-* 2020 *Application Practice of Data Analysis*, School of Sociology and Population Studies, RUC
+* 2020 *Application Practice of Data Analysis*, School of Sociology and Population Studies, RUC, Undergraduate
 
 ##	Awards & Honors
 
