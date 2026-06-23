@@ -1,9 +1,10 @@
 # This project contains codes for Xiyuan Hu's personal website, which is based on the Hugo theme written by [Yihui Xie](https://yihui.org/).
 
 ## Edit content/config: Steps of revision:
-1. Revise .rmd file, Save, Knit
-2. Run command blogdown::build_site() in console to rebuld site
-3. Commit push in github
+1. Revise .rmd file (or .md file in posts), Save, Knit
+2. setwd("c:\\...") to the sky file
+3. Run command blogdown::build_site() in console to rebuld site
+4. Commit push in github
 
 ## Don't change the directory of local github files!!!
 
